@@ -1,11 +1,10 @@
 import scrapy
-import scrapy.loader.processors  
+from scrapy.loader.processors  import MapCompose
 from ..config import BECAS_URL_SOURCE
 from ..items import Becas
 
-class Spider_Scholar4dev(scrapy.Spider):
-
-    name = "Scholar4dev"
+class Spider_SinFronteras(scrapy.Spider):
+    name = "SinFronteras"
     start_urls = [BECAS_URL_SOURCE]
 
     custom_settings = {
@@ -16,15 +15,12 @@ class Spider_Scholar4dev(scrapy.Spider):
     }
 
     Xpath_Expressions = {
-        "links": '//div[contains(@id,"post-")]/div[@class="entry clearfix"]//h2/a/@href',
-        "title": '//div[contains(@id,"post-")]/h1/text()',
-        "next_page":'//div[@class="wp-pagenavi"]/a[@class="page larger"]/@href',
-        "study_level":'//div[@class="post_column_1"]/p[contains(.,"Master") or contains(.,"PhD") or contains(.,"Postdoctoral") or contains(.,"Bachelor")]/text()'
+        'links':'//div[@class="tb-grid-column"]/div/a/@href',
+        'title': '//h1/strong/text()',
+        'next_page': '//div[@class="wpv-pagination-nav-links colour titulo_beca acm_container_width"]//a/@href'
     }
-    
 
     def parse(self,response):
-
         links_becas = response.xpath(self.Xpath_Expressions['links']).getall()
 
         for link in links_becas:
@@ -33,10 +29,13 @@ class Spider_Scholar4dev(scrapy.Spider):
         next_page = response.xpath(self.Xpath_Expressions['next_page']).get()
         yield response.follow(next_page,callback=self.parse)
 
-
     def parse_link(self,response):
+        #name = response.xpath(self.Xpath_Expressions['title']).get()
         item = scrapy.loader.ItemLoader(Becas(),response)
         item.add_xpath('name',self.Xpath_Expressions['title'])
         #item.add_xpath('requisito',Xpath_number_awards_Expression)
         #item.add_xpath('study_level',self.Xpath_Expressions['study_level'])
         yield item.load_item()
+
+    def LimpiarTexto(self,texto:str):
+        newText= texto.replace('"','')
