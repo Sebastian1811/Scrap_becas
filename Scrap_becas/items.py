@@ -10,4 +10,4 @@ class Becas(scrapy.Item):
     # define the fields for your item here like:
     name = scrapy.Field()
     #requisito = scrapy.Field()
-    #study_level =scrapy.Field()
+    study_level =scrapy.Field()
