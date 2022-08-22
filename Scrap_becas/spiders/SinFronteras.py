@@ -1,6 +1,4 @@
-from itertools import count
 import scrapy
-from scrapy.loader.processors  import MapCompose
 from ..config import BECAS_URL_SOURCE
 from ..items import Becas
 
@@ -29,9 +27,7 @@ class Spider_SinFronteras(scrapy.Spider):
         'country-host':'//div[@class="tb-fields-and-text acm_container_width" and child::p[child::a[child::img]]][1]/p/a/@title'
     }
     
-
     def parse(self,response):
-
         links_becas = response.xpath(self.Xpath_Expressions['links']).getall()
 
         for link in links_becas:
