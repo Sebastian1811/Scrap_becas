@@ -11,3 +11,5 @@ class Becas(scrapy.Item):
     name = scrapy.Field()
     #requisito = scrapy.Field()
     study_level =scrapy.Field()
+    study_field = scrapy.Field()
+    country_host = scrapy.Field()

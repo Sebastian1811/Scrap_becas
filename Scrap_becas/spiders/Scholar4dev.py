@@ -6,7 +6,7 @@ from ..items import Becas
 class Spider_Scholar4dev(scrapy.Spider):
 
     name = "Scholar4dev"
-    start_urls = [BECAS_URL_SOURCE]
+    start_urls = [BECAS_URL_SOURCE[0]]
 
     custom_settings = {
         'FEED_URI':'becas.csv',
