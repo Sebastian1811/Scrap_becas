@@ -15,7 +15,7 @@ class Spider_SinFronteras(scrapy.Spider):
                 "encoding":"utf8"
                 }
         },
-        'CLOSESPIDER_PAGECOUNT': 4
+        #'CLOSESPIDER_PAGECOUNT': 4
     }
 
     Xpath_Expressions = {
