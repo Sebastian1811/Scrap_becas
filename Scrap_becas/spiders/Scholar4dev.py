@@ -1,6 +1,6 @@
-from itertools import count
 import scrapy
 import scrapy.loader.processors  
+from itemloaders.processors import MapCompose
 from ..config import BECAS_URL_SOURCE
 from ..items import Becas
 
@@ -52,8 +52,8 @@ class Spider_Scholar4dev(scrapy.Spider):
         if len(study_level)!=0:
             item.add_xpath('name',self.Xpath_Expressions['title'])
             #item.add_xpath('requisito',Xpath_number_awards_Expression)
-            item.add_xpath('study_level',self.Xpath_Expressions['study_level'])
-            item.add_value('country_host',country_host)
+            item.add_xpath('study_level',self.Xpath_Expressions['study_level'],MapCompose(self.format_level))
+            item.add_value('country_host',country_host,MapCompose(self.format_level))
         yield item.load_item()
 
     def formar_country(self,country:list[str]):
@@ -64,4 +64,11 @@ class Spider_Scholar4dev(scrapy.Spider):
         if ',' in country_aux:
             return country_aux.split(',',1)[1]
         else: 
-            return country_aux.split(':',1)[1]         
+            return country_aux.split(':',1)[1]       
+    
+    def format_level (self,study_level:str):
+        if "," in study_level:
+            study_level.replace(",","")
+            return study_level.strip()
+        else:
+            return study_level.strip()      
