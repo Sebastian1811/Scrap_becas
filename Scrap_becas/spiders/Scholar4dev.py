@@ -38,5 +38,5 @@ class Spider_Scholar4dev(scrapy.Spider):
         item = scrapy.loader.ItemLoader(Becas(),response)
         item.add_xpath('name',self.Xpath_Expressions['title'])
         #item.add_xpath('requisito',Xpath_number_awards_Expression)
-        #item.add_xpath('study_level',self.Xpath_Expressions['study_level'])
+        item.add_xpath('study_level',self.Xpath_Expressions['study_level'])
         yield item.load_item()
