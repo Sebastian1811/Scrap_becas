@@ -73,4 +73,4 @@ class Spider_Scholar4dev(scrapy.Spider):
         else:
             return study_level.strip()      
 
-#un comentario furtivo BECAS_URL3=https://web.icetex.gov.co/es/web/portal/becas/resultados_becas?%C3%A1rea%20de%20estudio=528030
+#un comentario furtivo 

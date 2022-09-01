@@ -9,7 +9,7 @@ import scrapy
 class Becas(scrapy.Item):
     # define the fields for your item here like:
     name = scrapy.Field()
-    #requisito = scrapy.Field()
+    requirements = scrapy.Field()
     study_level =scrapy.Field()
     study_field = scrapy.Field()
     country_host = scrapy.Field()
