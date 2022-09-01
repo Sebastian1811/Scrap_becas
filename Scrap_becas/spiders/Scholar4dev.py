@@ -72,3 +72,5 @@ class Spider_Scholar4dev(scrapy.Spider):
             return study_level.strip()
         else:
             return study_level.strip()      
+
+#un comentario furtivo
