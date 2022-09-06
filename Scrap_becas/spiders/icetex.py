@@ -52,3 +52,4 @@ class icetexSpider(scrapy.Spider):
         else:
             return study_level.strip()    
 
+    

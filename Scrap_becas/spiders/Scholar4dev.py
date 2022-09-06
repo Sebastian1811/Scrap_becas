@@ -1,8 +1,10 @@
+from time import sleep
 import scrapy
 import scrapy.loader.processors  
 from itemloaders.processors import MapCompose
 from ..config import BECAS_URL_SOURCE
 from ..items import Becas
+from bs4 import BeautifulSoup
 
 class Spider_Scholar4dev(scrapy.Spider):
 
@@ -49,9 +51,11 @@ class Spider_Scholar4dev(scrapy.Spider):
         study_level =  response.xpath(self.Xpath_Expressions['study_level']).getall()
         item = scrapy.loader.ItemLoader(Becas(),response)
 
+        requisitos = self.soup_parser(response)
+
         if len(study_level)!=0:
             item.add_xpath('name',self.Xpath_Expressions['title'])
-            #item.add_xpath('requisito',Xpath_number_awards_Expression)
+            item.add_value('requirements',"")
             item.add_xpath('study_level',self.Xpath_Expressions['study_level'],MapCompose(self.format_level))
             item.add_value('country_host',country_host,MapCompose(self.format_level))
         yield item.load_item()
@@ -74,3 +78,12 @@ class Spider_Scholar4dev(scrapy.Spider):
             return study_level.strip()      
 
 #un comentario furtivo 
+    def soup_parser(self,response):
+        soup = BeautifulSoup(response.body) 
+        div = soup.find_all(attrs={'class':'entry clearfix'})
+        for i in div[0]:
+            print (i)
+            print('----------------------------') 
+            sleep(5)
+        sleep(30)
+        
