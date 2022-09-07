@@ -9,7 +9,7 @@ class Spider_SinFronteras(scrapy.Spider):
 
     custom_settings= {
         "FEEDS":{
-            "DT2-SFront.csv":{
+            "DT2-SFront2.csv":{
                 "format":"csv",
                 "overwrite":True,
                 "encoding":"utf8"
