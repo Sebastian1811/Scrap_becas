@@ -5,6 +5,7 @@ from itemloaders.processors import MapCompose
 from ..config import BECAS_URL_SOURCE
 from ..items import Becas
 from bs4 import BeautifulSoup
+import bs4
 
 class Spider_Scholar4dev(scrapy.Spider):
 
@@ -78,12 +79,33 @@ class Spider_Scholar4dev(scrapy.Spider):
             return study_level.strip()      
 
 #un comentario furtivo 
+    def change(self,iterable,result_type):
+        return [item for item in iterable if isinstance(item, result_type)]
+        
     def soup_parser(self,response):
-        soup = BeautifulSoup(response.body) 
-        div = soup.find_all(attrs={'class':'entry clearfix'})
-        for i in div[0]:
-            print (i)
-            print('----------------------------') 
-            sleep(5)
-        sleep(30)
+        
+        requisitos = 0 # variable de control para hayar posicion de los requisitos
+        soup = BeautifulSoup(response.body,'html.parser') 
+        div = soup.find_all(attrs={'class':'entry clearfix'}) #Traigo el div padre de los requisitos
+        lista = list()
+        mlist = self.change(div[0],bs4.element.Tag) # Filtro la lista a solo tags
+        for i in mlist:
+            if i.strong != None: #El tag strong tiene los requisitos
+                a = i.strong # hallo el strong
+                b = a.contents #guardo el contenido del strong
+                if "Eligibility" in b[0]: # pregunto si el strong son los requisitos
+                    requisitos = 1 #ya puedo recopilar los requisitos
+            
+            if requisitos and i.strong == None:
+                print("eyyyyyy")
+                lista.append(i.contents)
+                print(i.contents)
+                sleep(3)
+                if i.strong != None:
+                    requisitos = 0
+
+
+            #sleep(2)
+        sleep(5)
+       
         
