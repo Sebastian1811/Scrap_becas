@@ -1,3 +1,4 @@
+import re
 from time import sleep
 import scrapy
 import scrapy.loader.processors  
@@ -14,13 +15,13 @@ class Spider_Scholar4dev(scrapy.Spider):
 
     custom_settings= {
         "FEEDS":{
-            "becas2.csv":{
+            "becas21.csv":{
                 "format":"csv",
                 "overwrite":True,
                 "encoding":"utf8"
                 }
         },
-        #'CLOSESPIDER_PAGECOUNT': 4
+        #'CLOSESPIDER_PAGECOUNT': 3
     }
 
     Xpath_Expressions = {
@@ -56,7 +57,7 @@ class Spider_Scholar4dev(scrapy.Spider):
 
         if len(study_level)!=0:
             item.add_xpath('name',self.Xpath_Expressions['title'])
-            item.add_value('requirements',"")
+            item.add_value('requirements',requisitos)
             item.add_xpath('study_level',self.Xpath_Expressions['study_level'],MapCompose(self.format_level))
             item.add_value('country_host',country_host,MapCompose(self.format_level))
         yield item.load_item()
@@ -90,22 +91,33 @@ class Spider_Scholar4dev(scrapy.Spider):
         lista = list()
         mlist = self.change(div[0],bs4.element.Tag) # Filtro la lista a solo tags
         for i in mlist:
+            if requisitos and i.strong == None:
+                #print("eyyyyyy")
+                lista.append(i.contents)
+                #sprint(i.contents)
+                #sleep(3)
+                
             if i.strong != None: #El tag strong tiene los requisitos
                 a = i.strong # hallo el strong
                 b = a.contents #guardo el contenido del strong
                 if "Eligibility" in b[0]: # pregunto si el strong son los requisitos
                     requisitos = 1 #ya puedo recopilar los requisitos
-            
-            if requisitos and i.strong == None:
-                print("eyyyyyy")
-                lista.append(i.contents)
-                print(i.contents)
-                sleep(3)
-                if i.strong != None:
-                    requisitos = 0
+                if "Application instructions:" in b[0]:
+                    requisitos =0
+                    #print("found app",requisitos)
+        return self.format_requirements(lista)
+    def format_requirements(self,requirements):
+        cleanRequirements = list()
+        requisito = ""
+        for i in requirements:
+            for j in range(len(i)):
 
+                requisito+= i[j]
+            cleanRequirements.append(requisito)
+            requisito=""
+     
+        #input()
+        return cleanRequirements    
 
-            #sleep(2)
-        sleep(5)
        
         
