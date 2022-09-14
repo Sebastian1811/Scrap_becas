@@ -9,13 +9,14 @@ class Spider_SinFronteras(scrapy.Spider):
 
     custom_settings= {
         "FEEDS":{
-            "DT2-SFront2.csv":{
+            "DT2-SinFronteras.csv":{
                 "format":"csv",
                 "overwrite":True,
                 "encoding":"utf8"
                 }
         },
-        #'CLOSESPIDER_PAGECOUNT': 4
+        #'CLOSESPIDER_PAGECOUNT': 4,
+        "DOWNLOAD_DELAY" : 0.4 
     }
 
     Xpath_Expressions = {
@@ -27,7 +28,12 @@ class Spider_SinFronteras(scrapy.Spider):
         'country-host':'//div[@class="tb-fields-and-text acm_container_width" and child::p[child::a[child::img]]][1]/p/a/@title',
         'requirements':'//h2[@id="08-requisitos"]/../p[child::br]/text()'
     }
-    
+    '''
+    Esta función hace un scrap vertical en la página
+    extrae los links de cada publicación. También se encarga
+    del scrap horizontal para pasar a la siguiente página.
+    '''
+
     def parse(self,response):
         links_becas = response.xpath(self.Xpath_Expressions['links']).getall()
 
@@ -35,8 +41,14 @@ class Spider_SinFronteras(scrapy.Spider):
             yield response.follow(link,callback=self.parse_link)
 
         next_page = response.xpath(self.Xpath_Expressions['next_page']).get()
-        yield response.follow(next_page,callback=self.parse)
+        if next_page != None:
+            yield response.follow(next_page,callback=self.parse)
 
+
+    '''
+    Extacción de las caracterisiticas relevantes de las
+    convocatorias.
+    '''
 
     def parse_link(self,response):
         study_level= response.xpath(self.Xpath_Expressions['study_level']).getall()
@@ -84,8 +96,7 @@ class Spider_SinFronteras(scrapy.Spider):
     def format_requirements(self,requirements:list[str]):
         for i in range(len(requirements)):
             requirements[i] = requirements[i].strip()
-            #requirements[i] = requirements[i].replace("")
+            requirements[i] = requirements[i].replace("\n"," ")
         return requirements
 
-#test board
 
