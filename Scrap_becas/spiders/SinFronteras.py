@@ -47,7 +47,7 @@ class Spider_SinFronteras(scrapy.Spider):
 
     '''
     Extacción de las caracterisiticas relevantes de las
-    convocatorias.
+    convocatorias.7
     '''
 
     def parse_link(self,response):
