@@ -16,7 +16,7 @@ class Spider_SinFronteras(scrapy.Spider):
                 }
         },
         #'CLOSESPIDER_PAGECOUNT': 4,
-        "DOWNLOAD_DELAY" : 0.4 
+        "DOWNLOAD_DELAY" : 1
     }
 
     Xpath_Expressions = {
@@ -26,7 +26,8 @@ class Spider_SinFronteras(scrapy.Spider):
         'study_level':'//div[@class="tb-fields-and-text acm_container_width" and child::p[child::a]]/p/a[contains(.,"Posdoctorado") or contains(.,"Doctorado") or contains(.,"Maestría") or contains(.,"Especialidad") or contains(.,"Grado")]/text()',
         'study_field':'//div[@class="tb-fields-and-text acm_container_width" and child::p[child::a]]/p/a[contains(.,"computación") or contains(.,"Ingeniería")]/text()',
         'country-host':'//div[@class="tb-fields-and-text acm_container_width" and child::p[child::a[child::img]]][1]/p/a/@title',
-        'requirements':'//h2[@id="08-requisitos"]/../p[child::br]/text()'
+        'requirements':'//h2[@id="08-requisitos"]/../p[child::br]/text()',
+        'requirements_op':'//h4[child::strong]/strong[contains(.,"Requisitos")]/../../p[child::br]/text()'
     }
     '''
     Esta función hace un scrap vertical en la página
@@ -41,8 +42,8 @@ class Spider_SinFronteras(scrapy.Spider):
             yield response.follow(link,callback=self.parse_link)
 
         next_page = response.xpath(self.Xpath_Expressions['next_page']).get()
-        if next_page != None:
-            yield response.follow(next_page,callback=self.parse)
+        #if next_page != None:
+        yield response.follow(next_page,callback=self.parse)
 
 
     '''
@@ -58,15 +59,21 @@ class Spider_SinFronteras(scrapy.Spider):
         country_host = response.xpath(self.Xpath_Expressions['country-host']).getall()
         country_host = self.format_country_host(country_host)
         requirements = response.xpath(self.Xpath_Expressions['requirements']).getall()
+        if len(requirements) == 0:
+            requirements = response.xpath(self.Xpath_Expressions['requirements_op']).getall()
+        name =response.xpath(self.Xpath_Expressions['title']).getall()
+        name  = self.format_name(name)
         requirements = self.format_requirements(requirements)
         item = scrapy.loader.ItemLoader(Becas(),response)
-        if len(study_field)  !=0 and len(study_level) !=0:
-            item.add_xpath('name',self.Xpath_Expressions['title'])
+        if len(study_field)  !=0 and len(study_level) !=0 :
+            #item.add_xpath('name',self.Xpath_Expressions['title'])
+            item.add_value('name',name)
             item.add_value('study_level',study_level)
             item.add_value('study_field',study_field)
             item.add_value('country_host',country_host)
             item.add_value('requirements',requirements)
-        yield item.load_item()
+            item.add_value('url',response.url)
+            item.load_item()
         
 
     def format_study_level(self,studylevels:list[str]):
@@ -89,6 +96,7 @@ class Spider_SinFronteras(scrapy.Spider):
             country= countryhosts[i]
             if "online" in countryhosts[i]:
                 countryhosts[i] =country[20:].strip()
+                countryhosts[i] = countryhosts[i].replace('"',"")
             else:
                 countryhosts[i] =country[22:].strip()
         return countryhosts
@@ -98,5 +106,9 @@ class Spider_SinFronteras(scrapy.Spider):
             requirements[i] = requirements[i].strip()
             requirements[i] = requirements[i].replace("\n"," ")
         return requirements
+    def format_name(self,name:list[str]):
+        for i in range(len(name)):
+            name[i]= name[i].replace('"',"")
+        return name
 
 
