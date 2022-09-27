@@ -13,3 +13,6 @@ class Becas(scrapy.Item):
     study_level =scrapy.Field()
     study_field = scrapy.Field()
     country_host = scrapy.Field()
+    url = scrapy.Field()
+class dicci (scrapy.Item):
+    dic = scrapy.Field()
