@@ -7,7 +7,7 @@ from ..items import Becas
 
 class SpiderWeMakeScholars(scrapy.Spider):
     name = "WeMakeScholars"
-    start_urls = [BECAS_URL_SOURCE[2]]
+    start_urls = [BECAS_URL_SOURCE[3]]
 
     custom_settings = {
         "FEEDS":{
