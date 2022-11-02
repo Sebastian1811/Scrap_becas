@@ -73,8 +73,9 @@ class Spider_SinFronteras(scrapy.Spider):
             item.add_value('country_host',country_host)
             item.add_value('requirements',requirements)
             item.add_value('url',response.url)
-            item.load_item()
+            yield item.load_item()
         
+       
 
     def format_study_level(self,studylevels:list[str]):
         separator = ','
@@ -106,6 +107,7 @@ class Spider_SinFronteras(scrapy.Spider):
             requirements[i] = requirements[i].strip()
             requirements[i] = requirements[i].replace("\n"," ")
         return requirements
+        
     def format_name(self,name:list[str]):
         for i in range(len(name)):
             name[i]= name[i].replace('"',"")
