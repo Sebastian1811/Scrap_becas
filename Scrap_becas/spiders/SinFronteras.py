@@ -1,7 +1,10 @@
 import scrapy
 from ..config import BECAS_URL_SOURCE
 from ..items import Becas
+from datetime import datetime
 
+TIMESTAMP = datetime.now()
+TIMESTAMP = TIMESTAMP.strftime("%d-%m-%Y-HORA-%H-%M-%S")
 
 class Spider_SinFronteras(scrapy.Spider):
     name = "SinFronteras"
@@ -9,14 +12,14 @@ class Spider_SinFronteras(scrapy.Spider):
 
     custom_settings= {
         "FEEDS":{
-            "DT2-SinFronteras.csv":{
+            f"DT2-SinFronteras-{TIMESTAMP}.csv":{
                 "format":"csv",
                 "overwrite":True,
                 "encoding":"utf8"
                 }
         },
-        #'CLOSESPIDER_PAGECOUNT': 4,
-        "DOWNLOAD_DELAY" : 1
+        'CLOSESPIDER_PAGECOUNT': 4,
+        #"DOWNLOAD_DELAY" : 1
     }
 
     Xpath_Expressions = {
