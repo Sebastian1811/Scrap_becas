@@ -1,0 +1,2797 @@
+[
+      {
+            "end_date": "2022-11-17T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "12000",
+                                    "numberPrograms": "11"
+                              }
+                        ],
+                        "currency": "BRL"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p class=\"ql-align-justify\">O programa destina-se \u00e0 mobilidade internacional de estudantes de gradua\u00e7\u00e3o da Faculdade de Medicina da USP, apoiando a realiza\u00e7\u00e3o de interc\u00e2mbio acad\u00eamico internacional de curta dura\u00e7\u00e3o em institui\u00e7\u00f5es parceiras da FMUSP no 1o semestre de 2023, com vistas ao aprimoramento de compet\u00eancias e conhecimentos de pesquisa na \u00e1rea.&nbsp;</p><p class=\"ql-align-justify\">S\u00e3o eleg\u00edveis estudantes de gradua\u00e7\u00e3o da FMUSP que tenham sido aprovados em edital espec\u00edfico de vagas nas institui\u00e7\u00f5es parceiras.</p><p>As bolsas decorrem de uma parceria entre o Santander Universidades, a Faculdade de Medicina da USP e a Funda\u00e7\u00e3o Faculdade de Medicina, espec\u00edfica para apoiar o Programa de Internacionaliza\u00e7\u00e3o Acad\u00eamica, oferecendo bolsas no valor de R$12.000,00, destinadas a cobrir parcialmente as despesas do interc\u00e2mbio, a serem pagas em janeiro de 2023.</p>",
+            "created_at": "2022-08-01T17:34:50.071Z",
+            "exclusive_universityName": "FFM Fundacao Faculdade de Medicina",
+            "ownerId": "336bb6d9-c12e-44cf-b9f8-76a0a5393675",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "1 a 3 meses",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2022-10-06T13:51:54.715Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Fundacao Faculdade de Medicina",
+                  "id": "5b35dba2b8796b61f4d101d6"
+            },
+            "ownerCountry": "BR",
+            "exclusive": true,
+            "promoter": "",
+            "id": "62e80eba7758610016c91aac",
+            "total_scholarships": 11,
+            "slug": "bolsas-santander-estudos-programa-de-internacionalizacao-academica-2022",
+            "start_date": "2022-10-17T00:00:00.000Z",
+            "summary": "<p>O programa destina-se \u00e0 mobilidade internacional de estudantes de gradua\u00e7\u00e3o da Faculdade de Medicina da USP, apoiando a realiza\u00e7\u00e3o de interc\u00e2mbio acad\u00eamico internacional de curta dura\u00e7\u00e3o em institui\u00e7\u00f5es parceiras da FMUSP. S\u00e3o eleg\u00edveis estudantes de gradua\u00e7\u00e3o da FMUSP que tenham sido aprovados em edital espec\u00edfico de vagas nas institui\u00e7\u00f5es parceiras.</p>",
+            "currentStage": 1,
+            "requirements": "<p>Ter sido aprovado pelo edital espec\u00edfico de vagas de interc\u00e2mbio da FMUSP nas institui\u00e7\u00f5es parceiras.</p><p>Possuir conta corrente Santander Ativa.</p><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-11-17T23:00:00.000Z",
+                        "start_date": "2022-10-17T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2022-11-30T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "crint.mobilidade@fm.usp.br"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://pro-becas-images-s3.s3.eu-west-1.amazonaws.com/public_documents/0db684c9-9a1b-45bf-8454-fc88f4d6e6bb",
+                  "mimetype": "image/jpeg",
+                  "idDoc": "public_documents/0db684c9-9a1b-45bf-8454-fc88f4d6e6bb",
+                  "title": "05-Faculdade-de-Medicina-USP_jpg"
+            },
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d101d6",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Bolsas Santander Estudos | Programa de Internacionaliza\u00e7\u00e3o Acad\u00eamica (2022)",
+            "stages": [
+                  {
+                        "endDate": "2022-11-17T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "634966a7a7b9d37482abbfe5",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2022-11-30T23:00:00.000Z",
+                        "startDate": "2022-10-17T00:00:00.000Z",
+                        "status": "open"
+                  }
+            ],
+            "status": "open"
+      },
+      {
+            "end_date": "2022-12-31T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "4000",
+                                    "numberPrograms": "2"
+                              },
+                              {
+                                    "amount": "3000",
+                                    "numberPrograms": "1"
+                              },
+                              {
+                                    "amount": "1000",
+                                    "numberPrograms": "4"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>Mobility funding for Santander</p>",
+            "created_at": "2022-02-23T14:38:33.977Z",
+            "exclusive_universityName": "QMU Queen Margaret University",
+            "ownerId": "dac0a87d-b82c-4041-8de8-6c434c076fe0",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "22/21 academic year",
+            "mode": "semiFace",
+            "diversity": true,
+            "last_status_change": "2022-02-23T14:47:48.402Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Queen Margaret University",
+                  "id": "5b35dba2b8796b61f4d104f1"
+            },
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "",
+            "id": "621646e99752ea0015ee7e9f",
+            "total_scholarships": 7,
+            "slug": "santander-scholarships-studies-invited-applicants-only-santander-mobility-fund-2022",
+            "start_date": "2022-02-24T00:00:00.000Z",
+            "summary": "<p>Not applicable</p>",
+            "currentStage": 1,
+            "requirements": "",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-12-31T23:00:00.000Z",
+                        "start_date": "2022-02-24T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2023-01-31T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "Santander@qmu.ac.uk"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104f1",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Scholarships Studies | INVITED APPLICANTS ONLY - Santander Mobility Fund 2022",
+            "stages": [
+                  {
+                        "endDate": "2022-12-31T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "63315d76373ee0a7665499de",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2023-01-31T23:00:00.000Z",
+                        "startDate": "2022-02-24T00:00:00.000Z",
+                        "status": "open"
+                  }
+            ],
+            "status": "open"
+      },
+      {
+            "end_date": "2022-02-22T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": false,
+                  "tuition": true,
+                  "travel": false
+            },
+            "description": "<p class=\"ql-align-justify\"><span style=\"color: rgb(8, 8, 8);\">Podr\u00e1n solicitar la ayuda los doctorandos que hayan firmado en el curso 2021/22 un convenio de cotutela seg\u00fan la normativa establecida por la Escuela de Doctorado de la Universidad de C\u00e1diz (</span><a href=\"https://escueladoctoral.uca.es/doctorado/tesis-doctoral/cotutela-de-tesis-doctoral/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">https://escueladoctoral.uca.es/doctorado/tesis-doctoral/cotutela-de-tesis-doctoral/</a><span style=\"color: rgb(8, 8, 8);\"> ). </span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(8, 8, 8);\">Las </span><span style=\"color: rgb(28, 28, 28);\">ayudas </span><span style=\"color: rgb(8, 8, 8);\">tendr\u00e1n </span><span style=\"color: rgb(28, 28, 28);\">una duraci\u00f3n de </span><span style=\"color: rgb(8, 8, 8);\">hasta </span><span style=\"color: rgb(28, 28, 28);\">6 meses m\u00e1ximo, a desarrollar durante los tres a\u00f1os </span><span style=\"color: rgb(7, 7, 7);\">de duraci\u00f3n del </span><span style=\"color: rgb(24, 24, 24);\">programa de doctorado, pudi\u00e9ndose distribuir en varias estancias a lo largo de tres cursos acad\u00e9micos consecutivos. </span>Esta <span style=\"color: rgb(28, 28, 28);\">ayuda consistir\u00e1 en </span><span style=\"color: rgb(8, 8, 8);\">una </span><span style=\"color: rgb(28, 28, 28);\">dotaci\u00f3n </span><span style=\"color: rgb(8, 8, 8);\">mensual m\u00e1xima </span><span style=\"color: rgb(28, 28, 28);\">de </span><span style=\"color: rgb(8, 8, 8);\">800</span><span style=\"color: rgb(49, 49, 49);\">,00 </span><span style=\"color: rgb(28, 28, 28);\">euros, as\u00ed como el </span><span style=\"color: rgb(8, 8, 8);\">coste </span><span style=\"color: rgb(28, 28, 28);\">de </span><span style=\"color: rgb(8, 8, 8);\">la matr\u00edcula anual por tutela acad\u00e9mica. </span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(8, 8, 8);\">En ning\u00fan caso, se incluir\u00e1 en la ayuda el pago del coste de los cursos de formaci\u00f3n, asistencia a congresos, ni de apertura de expediente, tarjeta y seguro escolar, que ser\u00e1n a cargo del beneficiario. Tampoco estar\u00e1n incluidos los gastos que, por estos u otros conceptos, las personas beneficiarias tengan que satisfacer en la Universidad contraparte.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(8, 8, 8);\">El importe final de la dotaci\u00f3n en concepto de mensualidad se calcular\u00e1 de acuerdo a los d\u00edas efectivos de estancia en la Universidad de C\u00e1diz, y de acuerdo al citado importe m\u00e1ximo de 800 \u20ac por mes (30 d\u00edas). </span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(8, 8, 8);\">La dotaci\u00f3n mensual que corresponda, </span><span style=\"color: rgb(28, 28, 28);\">se </span><span style=\"color: rgb(8, 8, 8);\">ingresar\u00e1 al mes vencido en la </span><span style=\"color: rgb(28, 28, 28);\">cuenta </span><span style=\"color: rgb(8, 8, 8);\">que </span><span style=\"color: rgb(28, 28, 28);\">el </span><span style=\"color: rgb(8, 8, 8);\">beneficiario aperture </span><span style=\"color: rgb(28, 28, 28);\">en </span><span style=\"color: rgb(8, 8, 8);\">el </span><span style=\"color: rgb(5, 5, 5);\">Banco de Santander, </span><span style=\"color: rgb(22, 22, 22);\">una </span><span style=\"color: rgb(5, 5, 5);\">vez deducidos los </span><span style=\"color: rgb(22, 22, 22);\">impuestos </span><span style=\"color: rgb(5, 5, 5);\">que correspondan de acuerdo con la legislaci\u00f3n vigente.</span></p>",
+            "created_at": "2021-11-21T11:46:13.258Z",
+            "exclusive_universityName": "",
+            "ownerId": "572d71e2-5b37-43b9-b413-cab8106fc719",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "M\u00e1ximo 6 meses",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2021-12-02T14:33:48.032Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Universidad de C\u00e1diz",
+                  "id": "5b35dba2b8796b61f4d1049c"
+            },
+            "ownerCountry": "ES",
+            "exclusive": false,
+            "promoter": "",
+            "id": "619a31857afde800155db92e",
+            "total_scholarships": 3,
+            "slug": "becas-santander-estudios-uca-internacional-realizacion-tesis-doctorales-en-cotutela",
+            "start_date": "2021-12-02T00:00:00.000Z",
+            "summary": "<p>Becas Santander estudios - UCA Internacional para la realizaci\u00f3n de tesis doctorales en r\u00e9gimen de cotutela:<span style=\"color: rgb(8, 8, 8);\"> ayudas de movilidad destinadas a doctorandos en r\u00e9gimen de cotutela de la Universidad de C\u00e1diz que hayan firmado en el curso 2021/22 un convenio de cotutela seg\u00fan la normativa establecida por la Escuela de Doctorado de la Universidad de C\u00e1diz. La</span><strong style=\"color: rgb(8, 8, 8);\"> </strong><span style=\"color: rgb(28, 28, 28);\">duraci\u00f3n es de </span><span style=\"color: rgb(8, 8, 8);\">hasta </span><span style=\"color: rgb(28, 28, 28);\">6 meses m\u00e1ximo, a desarrollar durante los tres a\u00f1os </span><span style=\"color: rgb(7, 7, 7);\">de duraci\u00f3n del </span><span style=\"color: rgb(24, 24, 24);\">programa de doctorado, pudi\u00e9ndose distribuir en varias estancias a lo largo de tres cursos acad\u00e9micos consecutivos. </span><span style=\"color: rgb(8, 8, 8);\">La </span><span style=\"color: rgb(28, 28, 28);\">ayuda es</span><span style=\"color: rgb(8, 8, 8);\"> </span><span style=\"color: rgb(28, 28, 28);\">de </span><span style=\"color: rgb(8, 8, 8);\">800\u20ac/mes</span><span style=\"color: rgb(28, 28, 28);\">, as\u00ed como el </span><span style=\"color: rgb(8, 8, 8);\">coste </span><span style=\"color: rgb(28, 28, 28);\">de </span><span style=\"color: rgb(8, 8, 8);\">la matr\u00edcula anual por tutela acad\u00e9mica. </span></p>",
+            "currentStage": 1,
+            "requirements": "<p>Criterios de selecci\u00f3n:</p><p>\u25cf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificado de nota media de los estudios que dan acceso al Programa de Doctorado: hasta 60%</p><p>\u25cf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conocimiento oficialmente acreditado de espa\u00f1ol: hasta 20%</p><p>\u25cf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horas reconocidas de formaci\u00f3n en el expediente del doctorando: hasta 20%</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-02-22T23:00:00.000Z",
+                        "start_date": "2021-12-02T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2022-10-28T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "internacionalizacion@uca.es"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/14qyadqkwn98m0b",
+                  "mimetype": "image/png",
+                  "idDoc": "14qyadqkwn98m0b",
+                  "title": "logo_V2_COLOR_100x142mm"
+            },
+            "allDestinations": true,
+            "exclusive_university": "",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Estudios | UCA Internacional realizaci\u00f3n tesis doctorales en cotutela",
+            "stages": [
+                  {
+                        "endDate": "2022-02-22T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "634d4f85b583139c24be9850",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2022-10-28T23:00:00.000Z",
+                        "startDate": "2021-12-02T00:00:00.000Z",
+                        "status": "closed"
+                  }
+            ],
+            "status": "closed"
+      },
+      {
+            "end_date": "2019-04-30T23:59:59.000Z",
+            "benefits": {
+                  "courses": true,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": false,
+                  "tuition": true,
+                  "travel": false
+            },
+            "description": "<p>Este formul\u00e1rio destina-se apenas a estudantes do Instituto Superior T\u00e9cnico que v\u00e3o fazer mobilidade noutras Universidades. Alunos de outras Institui\u00e7\u00f5es que pretendem fazer mobilidade no Instituto Superior T\u00e9cnico devem-se candidatar \u00e0 bolsa na Institu\u00e7\u00e3o que frequentam.</p><p>O Programa de \u201cBolsas Ibero-Americanas\u201d \u00e9 um programa impulsionado pelo Grupo Santander que pretende refor\u00e7ar a mobilidade e o interc\u00e2mbio de estudantes entre universidades ibero-americanas.</p><p>A estrutura geral do Programa foi concebida com a vontade de assegurar o reconhecimento de estudos, a reciprocidade no interc\u00e2mbio e o alcance progressivo ao conjunto dos pa\u00edses ibero-americanos.</p><p>A finalidade das bolsas que se outorgam pelas Universidades Participantes sob o presente Programa \u00e9 facilitar aos estudantes o seguimento de estudos durante um semestre acad\u00e9mico numa universidade ibero-americana de outro pa\u00eds diferente do pa\u00eds de origem.</p>",
+            "created_at": "2019-04-03T14:44:56.971Z",
+            "exclusive_universityName": "Instituto Superior T\u00e9cnico",
+            "ownerId": "ed8c560f-e694-4259-86ba-d68b96b40d25",
+            "distribution": {
+                  "distributors": []
+            },
+            "duration": "1 semestre",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-04-04T14:45:43.306Z",
+            "allOriginCountries": false,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "PT",
+            "exclusive": true,
+            "promoter": "Instituto Superior T\u00e9cnico",
+            "id": "5ca4c6e8db88cf00211482b6",
+            "total_scholarships": 15,
+            "slug": "bolsas-ibero-americanas",
+            "start_date": "2019-03-31T00:00:00.000Z",
+            "summary": "<p>Esta \u00e9 uma forma de poder estudar ao mesmo tempo que conheces um novo pa\u00eds, sem teres que dispender de todo o dinheiro que terias que dispender se n\u00e3o tivesses acesso a esta bolsa</p>",
+            "currentStage": 1,
+            "requirements": "<ul><li>Dever\u00e3o ser estudantes matriculados em Universidades Participantes no Programa e frequentar estudos de licenciatura ou mestrado, tendo obtido pelo menos metade dos cr\u00e9ditos ou superado os dois primeiros anos dos seus estudos</li><li>Dever\u00e3o, em todo o caso, cumprir os crit\u00e9rios de elegibilidade, condi\u00e7\u00f5es e procedimentos estabelecidos pela sua universidade no correspondente processo de sele\u00e7\u00e3o.</li><li>O crit\u00e9rio de atribui\u00e7\u00e3o a considerar no ano lectivo 2019/2020 \u00e9 o M\u00e9rito acad\u00e9mico</li><li>Os crit\u00e9rios de atribui\u00e7\u00e3o a considerar a partir de 2020/2021 s\u00e3o:</li></ul><p>a) Condi\u00e7\u00f5es socioecon\u00f3micas desfavor\u00e1veis (\u00edndice de pondera\u00e7\u00e3o de 25% a 75%)</p><p>b) M\u00e9rito acad\u00e9mico (\u00edndice de pondera\u00e7\u00e3o de 75% a 25%)</p><ul><li>A estadia e estudos na universidade de destino dever\u00e3o realizar-se no per\u00edodo compreendido entre 18 de Mar\u00e7o de 2019 e 18 de Junho de 2020. Em todo o caso, o in\u00edcio do usufruto das bolsas ter\u00e1 sempre que ser antes de finalizar o m\u00eas de Fevereiro de 2020.</li><li>O estudante que for selecionado para usufruir de uma Bolsa ter\u00e1 que contratar um seguro obrigat\u00f3rio com a mesma dura\u00e7\u00e3o da Bolsa, que incluir\u00e1 as coberturas de: (i) falecimento e invalidez permanente por acidente, (ii) transporte e repatria\u00e7\u00e3o de falecidos, feridos ou doentes,(iii) gastos m\u00e9dicos e cir\u00fargicos, hospitaliza\u00e7\u00e3o por doen\u00e7a ou acidente (iv) responsabilidade civil privada. A Universidade responsabilizar-se-\u00e1 pela verifica\u00e7\u00e3o da contrata\u00e7\u00e3o do seguro pelo benefici\u00e1rio.</li><li>A bolsa, uma vez aceite atrav\u00e9s da p\u00e1gina web www.bolsas-santander.com dever\u00e1 ser\u00e1 ser paga diretamente ao benefici\u00e1rio pela Universidade Participante numa conta aberta pelo estudante no Santander. Com a concess\u00e3o da bolsa, o estudante passa a fazer parte da comunidade de bolseiros Santander.</li></ul>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2019-04-30T23:59:59.000Z",
+                        "start_date": "2019-03-31T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2019-06-01T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5c76449efae6c300143fe867",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [
+                  {
+                        "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/ywzjkjju2rea0o",
+                        "mimetype": "image/jpeg",
+                        "idDoc": "ywzjkjju2rea0o",
+                        "title": "Santander"
+                  }
+            ],
+            "countriesOfOrigin": [
+                  "BR",
+                  "AR",
+                  "CO",
+                  "CL",
+                  "PE",
+                  "MX"
+            ],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": true,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Bolsas Ibero-americanas ",
+            "stages": [
+                  {
+                        "endDate": "2019-04-30T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "60aaac209917680014394691",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2019-06-01T23:59:59.000Z",
+                        "startDate": "2019-03-31T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2022-04-29T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "150",
+                                    "numberPrograms": "84"
+                              }
+                        ],
+                        "currency": "EUR"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>Ayudas del Banco Santander para estudiantes participantes en los programas de movilidad ISEP, Convenios Bilaterales, Mart\u00edn de Rada y Palafox 2022-2023.</p>",
+            "created_at": "2022-02-11T13:29:41.950Z",
+            "exclusive_universityName": "Universidad P\u00fablica de Navarra",
+            "ownerId": "e0e12456-938b-4d4b-b6a0-de12466e8362",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Movilidad semestral: 4,5 meses.  Movilidad anual: 9 meses.",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2022-02-11T13:45:43.775Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Universidad P\u00fablica de Navarra",
+                  "id": "5b35dba2b8796b61f4d104c4"
+            },
+            "ownerCountry": "ES",
+            "exclusive": true,
+            "promoter": "",
+            "id": "620664c53472d600169bbf05",
+            "total_scholarships": 84,
+            "slug": "becas-santander-estudios-upna-movilidad-internacional-no-erasmus-2022-2023",
+            "start_date": "2022-03-17T00:00:00.000Z",
+            "summary": "<p>Las ayudas a la movilidad internacional de los programas de movilidad ISEP, Convenios Bilaterales, Mart\u00edn de Rada y Palafox 2021-2022 se distribuyen entre los estudiantes de Grado y M\u00e1ster con mejores expedientes por media ponderada (media expediente/media titulaci\u00f3n), seleccionados en la convocatoria de Programas Internacionales de Movilidad 2022/2023 de la Secci\u00f3n de Internacionalizaci\u00f3n y Cooperaci\u00f3n de la Universidad P\u00fablica de Navarra.</p>",
+            "currentStage": 1,
+            "requirements": "",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-04-29T23:00:00.000Z",
+                        "start_date": "2022-03-17T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2022-05-18T23:00:00.000Z"
+            },
+            "sfAgreements": [
+                  "a002o00000zvRiPAAU"
+            ],
+            "destinations": [],
+            "supportEmails": [
+                  "becas.movilidad@unavarra.es"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104c4",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Estudios | UPNA Movilidad internacional no Erasmus 2022-2023",
+            "stages": [
+                  {
+                        "endDate": "2022-04-29T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "620a56293472d60016a30423",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2022-05-18T23:00:00.000Z",
+                        "startDate": "2022-03-17T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-06-30T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "1200",
+                                    "numberPrograms": "27"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>Please note that Goldsmiths has taken the difficult decision to suspend the Go Abroad scheme this year in light of the rapidly changing Covid-19 situation. This decision has not been taken lightly and our focus has been ensuring students remain safe and supported during their studies at the College, including when they are undertaking additional travel.&nbsp;We are supporting students to complete virtual global opportunities and will share an update shortly.</p><p><br></p><p><strong>Go Abroad scheme - suspended</strong></p><p><br></p><p>Funding is available to support Goldsmiths students to study, work or volunteer abroad during your studies if you meet our widening participation criteria.</p><p><br></p><p><strong>Who can apply</strong></p><p>This opportunity is available to first and second year undergraduates who meet our widening participation criteria: https://www.gold.ac.uk/students/go-abroad/wp-criteria/</p><p>You must be in good academic standing and must not be in debt to Goldsmiths.</p><p><br></p><p><strong>What can I do?</strong></p><p>In order to be eligible for Go Abroad funding students must find placements that meet the following criteria:</p><p><br></p><ul><li>Take place between 1 April and 18 September 2020</li><li>Hosted by an organisation</li><li>Includes a structured programme activity</li><li>Is relevant to your degree or future career</li><li>Takes place outside of the UK</li><li>Must not be in a location that has been assigned amber or red according to the FCO travel guidance</li></ul><p><br></p><p>International students cannot undertake a placement in their home country.</p><p><strong>&nbsp;</strong></p><p><strong>Where you can go</strong></p><p>It is up to students to find their own short term work placements. Guidance is given on https://www.gold.ac.uk/students/go-abroad/. Placements can take place worldwide.</p><p><br></p><p><strong>What funding is available</strong></p><p>For 2019/20, if you meet our widening participation criteria, you can apply for up to \u00a31200 as a contribution toward the cost of your placement. You will need to show a breakdown of your expected costs in your application.</p><p><br></p><p><strong>How to apply</strong></p><p>Applicants must first complete the Goldsmiths application form on https://www.gold.ac.uk/students/go-abroad. Once your application has been approved we will ask you to register via this form on the Santander Scholarships website .</p>",
+            "created_at": "2019-11-05T12:24:41.230Z",
+            "exclusive_universityName": "Goldsmiths University of London",
+            "ownerId": "2e7563f2-8364-4f5b-abe5-4f45f3bf8dc1",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "1 April - 18 September 2020",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-11-15T11:17:37.178Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "Goldsmiths, University of London",
+            "id": "5dc16a0964a7a300138cc952",
+            "total_scholarships": 27,
+            "slug": "goldsmiths-study-and-work-abroad-bursary",
+            "start_date": "2020-06-08T00:00:00.000Z",
+            "summary": "<p>Please not funding has been suspended in light of the current situation with Covid-19.</p><p><br></p><p>Funding is available for Goldsmiths students to study, work or volunteer abroad during your studies. Apply first at www.gold.ac.uk/students/go-abroad then complete the process here.</p>",
+            "currentStage": 1,
+            "requirements": "<p>Applicants must be a 1st or 2nd year undergraduate student who meet our widening participation criteria: <a>https://www.gold.ac.uk/students/go-abroad/wp-criteria/</a></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-06-30T23:00:00.000Z",
+                        "start_date": "2020-06-08T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-07-14T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d10521",
+            "isXL": false,
+            "secondaryCategory": "INTERNSHIP",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Goldsmiths Santander Universities Study and Work Abroad bursary",
+            "stages": [
+                  {
+                        "endDate": "2020-06-30T23:00:00.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "611e2c55f58999001400b3a4",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-07-14T23:00:00.000Z",
+                        "startDate": "2020-06-08T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2022-04-29T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p class=\"ql-align-justify\">La Universidad de Alcal\u00e1 ofrece hasta un m\u00e1ximo de 20 Becas de Residencia para realizar Tesis Doctorales en R\u00e9gimen de Cotutela. Las becas se conceder\u00e1n en r\u00e9gimen de publicidad, objetividad y concurrencia competitiva entre los candidatos.</p><p class=\"ql-align-justify\">Se entiende por Tesis en Cotutela aqu\u00e9lla que se realiza en dos universidades, una espa\u00f1ola y otra extranjera. Esto supone que el estudiante est\u00e9 matriculado, tanto en la Universidad espa\u00f1ola, como en la extranjera. Una vez defendida la Tesis Doctoral, el estudiante obtendr\u00e1 dos t\u00edtulos de Doctor.&nbsp;</p><p><br></p>",
+            "created_at": "2022-01-13T09:28:19.193Z",
+            "exclusive_universityName": "",
+            "ownerId": "db44eecc-e731-4aea-8f7c-ec0653a9929b",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "6 meses",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2022-02-23T09:12:31.327Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Universidad de Alcal\u00e1",
+                  "id": "5b35dba2b8796b61f4d10494"
+            },
+            "ownerCountry": "ES",
+            "exclusive": false,
+            "promoter": "",
+            "id": "61dff0b3f96c420015bbe32d",
+            "total_scholarships": 20,
+            "slug": "becas-santander-estudios-becas-residencia-uah-santander-maria-guzman-21-22",
+            "start_date": "2022-02-23T00:00:00.000Z",
+            "summary": "<p>La Universidad de Alcal\u00e1 ofrece hasta un m\u00e1ximo de 20 Becas de Residencia para realizar Tesis Doctorales en R\u00e9gimen de Cotutela. Las becas se conceder\u00e1n en r\u00e9gimen de publicidad, objetividad y concurrencia competitiva entre los candidatos.</p>",
+            "currentStage": 1,
+            "requirements": "<ol><li class=\"ql-align-justify\">Podr\u00e1n ser candidatos los estudiantes de Doctorado procedentes de universidades extranjeras que hayan formalizado un Acuerdo de Cotutela de Tesis con la Universidad de Alcal\u00e1 o cuya formalizaci\u00f3n est\u00e9 en fase avanzada y que deseen realizar una estancia en la Universidad de Alcal\u00e1 para seguir trabajando en su Tesis Doctoral.</li><li class=\"ql-align-justify\">Los candidatos deber\u00e1n estar matriculados en un Programa de Doctorado en su universidad de origen y deber\u00e1n estar matriculados o haber sido aceptados en un Programa de Doctorado de la Universidad de Alcal\u00e1.&nbsp;</li><li class=\"ql-align-justify\">No podr\u00e1n solicitar estas becas los ciudadanos espa\u00f1oles ni los extranjeros que sean residentes en Espa\u00f1a en el momento de la solicitud de la beca.&nbsp;&nbsp;</li></ol><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-04-29T23:00:00.000Z",
+                        "start_date": "2022-02-23T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2022-06-29T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "escuela.doctorado@uah.es"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Estudios | Becas Residencia UAH-SANTANDER \u201cMAR\u00cdA GUZM\u00c1N\u201d . 21-22",
+            "stages": [
+                  {
+                        "endDate": "2022-04-29T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "62160714dd47980015174c9b",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2022-06-29T23:00:00.000Z",
+                        "startDate": "2022-02-23T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-02-19T23:00:00.000Z",
+            "benefits": {
+                  "courses": true,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "1000",
+                                    "numberPrograms": "10"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": true
+            },
+            "description": "<p>Funding has been allocated for work placements (as part of course), internships, conference travel, visits to partner universities, and online conferences for students who have financially challenging circumstances. Under the current situation, due to Covid-19, students can also apply for different opportunities that will help their degree.</p>",
+            "created_at": "2021-02-02T12:40:23.151Z",
+            "exclusive_universityName": "UAD University of Abertay",
+            "ownerId": "e451ae50-2257-4b05-bcad-aa09dbd80a28",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "n/a",
+            "mode": "semiFace",
+            "diversity": false,
+            "last_status_change": "2021-02-05T10:04:31.623Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "University of Abertay",
+                  "id": "5dcab7fb1f675e0014222816"
+            },
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "",
+            "id": "601948377c31210011381ce1",
+            "total_scholarships": 10,
+            "slug": "santander-scholarships-studies-santander-opportunities-fund",
+            "start_date": "2021-02-08T00:00:00.000Z",
+            "summary": "<p>The opportunities fund supports Abertay students who want to enhance their student experience. This fund is open to students who sit under the widening participation criteria. Due to Covid-19, students can discuss various opportunities with the Student Advisory team since travel may not be an option.</p><p><br></p><p>The maximum fund allocated per opportunity is \u00a32,000, and minimum is \u00a350. Students are asked to give a breakdown of their costs in the application form.</p>",
+            "currentStage": 1,
+            "requirements": "<p>The opportunities fund supports Abertay students who want to enhance their student experience but not able to do so due to lack of finances.</p><p><br></p><p class=\"ql-align-justify\">Applications are invited from students from who fall into one or more of the following groups:</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students with a household income* under \u00a334,000 (discounting personal earnings)</p><p class=\"ql-align-justify\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Care Experienced students</p><p class=\"ql-align-justify\">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students under 25 who are irreconcilably estranged from their parents/guardians</p><p class=\"ql-align-justify\">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students with disabilities or long term medical conditions (including specific learning difficulties and mental or physical health conditions)</p><p class=\"ql-align-justify\">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students who are single/lone parents</p><p class=\"ql-align-justify\">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students with caring responsibilities <em>(</em><em style=\"color: black;\">A carer is anyone who cares, unpaid, for a friend or family member (including children) who due to illness, disability, a mental health problem or an addiction cannot cope without their support)</em></p><p class=\"ql-align-justify\">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applications will be considered from students with other exceptional circumstances which have a significant financial impact on their ability to undertake an eligible opportunity (please discuss with a Student Advisor before applying)</p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-02-19T23:00:00.000Z",
+                        "start_date": "2021-02-08T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-03-22T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "advisory@abertay.ac.uk"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/68khkko4152o",
+                  "mimetype": "image/png",
+                  "idDoc": "68khkko4152o",
+                  "title": "WEB-Uni-Logo-with-TM-Outline"
+            },
+            "allDestinations": true,
+            "exclusive_university": "5dcab7fb1f675e0014222816",
+            "isXL": false,
+            "secondaryCategory": "SKILLS",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Scholarships Studies | Santander Opportunities Fund",
+            "stages": [
+                  {
+                        "endDate": "2021-02-19T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "605cafeb1a15b2001410b308",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2021-03-22T23:00:00.000Z",
+                        "startDate": "2021-02-08T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2022-05-02T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "1500",
+                                    "numberPrograms": "8"
+                              },
+                              {
+                                    "amount": "3000",
+                                    "numberPrograms": "1"
+                              }
+                        ],
+                        "currency": "EUR"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>El objetivo de la convocatoria es fomentar la realizaci\u00f3n de actividades interculturales por los estudiantes que participan en los programas de movilidad de la Universidad y contribuir a la cooperaci\u00f3n entre instituciones educativas de distintos pa\u00edses y la Universidad Pontificia de Salamanca en la promoci\u00f3n y conocimiento de la cultura espa\u00f1ola y de la Universidad en pa\u00edses extranjeros.</p><p>De igual modo, dichas becas tienen por objeto distinguir los mejores expedientes acad\u00e9micos de los estudiantes y fomentar la inclusi\u00f3n educativa, velando por criterios de igualdad y equidad social dentro de la Comunidad Universitaria.</p>",
+            "created_at": "2022-04-01T07:01:11.105Z",
+            "exclusive_universityName": "Universidad Pontificia de Salamanca",
+            "ownerId": "bad14ced-f3ef-4bed-ada4-19fca9c57aa9",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "1 semestre acad\u00e9mico / curso completo",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2022-04-04T12:07:21.288Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Universidad Pontificia de Salamanca",
+                  "id": "5b35dba2b8796b61f4d104dc"
+            },
+            "ownerCountry": "ES",
+            "exclusive": true,
+            "promoter": "",
+            "id": "6246a3376f28e700154a67fe",
+            "total_scholarships": 9,
+            "slug": "becas-santander-estudios-becas-santander-student-ambassador-upsa",
+            "start_date": "2022-04-05T00:00:00.000Z",
+            "summary": "<p>El objetivo de la convocatoria es fomentar la realizaci\u00f3n de actividades interculturales por los estudiantes que participan en los programas de movilidad de la Universidad y contribuir a la cooperaci\u00f3n entre instituciones educativas de distintos pa\u00edses y la Universidad Pontificia de Salamanca en la promoci\u00f3n y conocimiento de la cultura espa\u00f1ola y de la Universidad en pa\u00edses extranjeros.</p><p>De igual modo, dichas becas tienen por objeto distinguir los mejores expedientes acad\u00e9micos de los estudiantes y fomentar la inclusi\u00f3n educativa, velando por criterios de igualdad y equidad social dentro de la Comunidad Universitaria.</p>",
+            "currentStage": 1,
+            "requirements": "<p>-Haber solicitado y obtenido una plaza del programa de intercambio (no incluye los programas Erasmus y SICUE) para el curso 2022-23.</p><p>-No ser beneficiario de una ayuda econ\u00f3mica en el marco de los programas Erasmus KA131 y KA171, salvo que el destino est\u00e9 en la regi\u00f3n 5 (Asia).</p><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-05-02T23:00:00.000Z",
+                        "start_date": "2022-04-05T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2022-05-13T23:00:00.000Z"
+            },
+            "sfAgreements": [
+                  "a002o000013ID1fAAG"
+            ],
+            "destinations": [],
+            "supportEmails": [
+                  "relint@upsa.es"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104dc",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Estudios | Becas Santander Student Ambassador UPSA",
+            "stages": [
+                  {
+                        "endDate": "2022-05-02T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "624ade456f28e7001555e58f",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2022-05-13T23:00:00.000Z",
+                        "startDate": "2022-04-05T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-12-20T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "750",
+                                    "numberPrograms": "1"
+                              }
+                        ],
+                        "currency": "EUR"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>Se \u00e9 um Estudante da ESESJC com m\u00e9rito, deve aproveitar esta oportunidade para realizar um programa de mobilidade internacional. Basta que tenha:</p><ul><li>M\u00e9dia igual ou superior a 16 valores</li><li>60 ECTS conclu\u00eddos em 2020/2021</li><li>Bolsa de Estudo da DGES</li></ul><p><br></p><p>Para apresentar a sua candidatura deve submeter uma carta de motiva\u00e7\u00e3o.</p>",
+            "created_at": "2021-11-09T10:44:34.941Z",
+            "exclusive_universityName": "Escola Superior de Enfermagem s. Jos\u00e9 de Cluny",
+            "ownerId": "9a28a912-f67f-4188-ba76-544e3ab50853",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Um ano letivo",
+            "mode": "online",
+            "diversity": false,
+            "last_status_change": "2021-11-09T11:00:27.079Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Escola Superior de Enfermagem s. Jos\u00e9 de Cluny",
+                  "id": "5b35dba2b8796b61f4d10472"
+            },
+            "ownerCountry": "PT",
+            "exclusive": true,
+            "promoter": "",
+            "id": "618a511233ad410016d38420",
+            "total_scholarships": 1,
+            "slug": "bolsas-santander-estudos-bolsa-de-estudo-por-merito-esesjc",
+            "start_date": "2021-11-10T00:00:00.000Z",
+            "summary": "<p>Realize um programa de mobilidade internacional. Se \u00e9 um Estudante da ESESJC com m\u00e9rito, candidate-se j\u00e1!</p>",
+            "currentStage": 1,
+            "requirements": "<p>Uma vez que o(a) estudante vai realizar um programa de Mobilidade Internacional, deve ter conhecimentos de ingl\u00eas. A dura\u00e7\u00e3o do programa \u00e9 definida em concord\u00e2ncia com o Gabinete de Mobilidade e Internacionaliza\u00e7\u00e3o. </p><p>Para usufruir da Bolsa de Estudo, o(a) estudante deve ser titular de uma conta Santander.</p><p><br></p><p>S\u00e3o eleg\u00edveis os Estudantes que tenham:</p><ul><li>Matr\u00edcula ativa na ESESJC;</li><li>Inscri\u00e7\u00e3o nas Unidades Curriculares de ambos os semestres de 2020/2021;</li><li>Aproveitamento escolar em todas as Unidades Curriculares em que esteve inscrito em 2020/2021;</li><li>Car\u00eancia econ\u00f3mica comprovada (com bolsa da DGES)</li></ul>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-12-20T23:00:00.000Z",
+                        "start_date": "2021-11-10T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-12-21T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "secretaria@esesjcluny.pt"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/vcspkvrxsw2x",
+                  "mimetype": "image/png",
+                  "idDoc": "vcspkvrxsw2x",
+                  "title": "FA_SANTANDER_SV_NEG_CMYK-1"
+            },
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d10472",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Bolsas Santander Estudos | Bolsa de Estudo por M\u00e9rito ESESJC",
+            "stages": [
+                  {
+                        "endDate": "2021-12-20T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "61c0465b82a41e0017d80fbc",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2021-12-21T23:00:00.000Z",
+                        "startDate": "2021-11-10T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-11-23T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "2000",
+                                    "numberPrograms": "5"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>The Santander Mobility Award helps doctoral students present work at conferences, build links with high-profile institutional partners, and carry out research overseas.</p><p>&nbsp;</p><p>You can apply for an award if you are a doctoral student and planning to present your work at international conferences, or complete training relevant to your research.</p><p>&nbsp;</p><p>You can also apply for an award to support research at a university or higher education institution elsewhere in the world, especially as part of an ongoing research collaboration.</p>",
+            "created_at": "2020-10-05T08:27:18.125Z",
+            "exclusive_universityName": "University of Bath",
+            "ownerId": "72a07f46-5b98-4854-a793-57cabdd93f2b",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "To be used by 31st August 2021",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2020-10-05T08:32:30.891Z",
+            "allOriginCountries": true,
+            "primaryCategory": "RESEARCH",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "University of Bath",
+            "id": "5f7ad8e69d4b270012c296ec",
+            "total_scholarships": 5,
+            "slug": "santander-mobility-award",
+            "start_date": "2020-10-05T00:00:00.000Z",
+            "summary": "<p>The Santander Mobility Award provides funding for travel, conferences fees, subsistence, and expenses incurred while making visits that specifically assist with a student's doctoral studies.</p>",
+            "currentStage": 1,
+            "requirements": "<p>The Santander Mobility Award is for doctoral students who require funding for travel to international conferences and institutional visits.</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-11-23T23:00:00.000Z",
+                        "start_date": "2020-10-05T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-11-30T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "km854@bath.ac.uk"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104fc",
+            "isXL": false,
+            "secondaryCategory": "STUDIES",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Mobility Award",
+            "stages": [
+                  {
+                        "endDate": "2020-11-23T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "5fbceac6e65efd0012dea721",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2020-11-30T23:00:00.000Z",
+                        "startDate": "2020-10-05T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2019-04-30T21:59:59.999Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": true
+            },
+            "description": "<p>La convocatoria tiene como objeto la adjudicaci\u00f3n de una beca a personal docente e investigador y a alumnos de doctorado de la Universidad de La Rioja (UR) para su participaci\u00f3n, a traves de los correspondientes convenios suscritos con universidades iberoamericanas, en programas internacionales de movilidad hasta el 30 de junio de 2020</p>",
+            "created_at": "2019-03-22T09:30:31.392Z",
+            "exclusive_universityName": "Universidad de la Rioja",
+            "ownerId": "e3c548ec-b493-4163-a4be-6d145593296e",
+            "distribution": {
+                  "distributors": []
+            },
+            "duration": "La duraci\u00f3n m\u00ednima 2 meses y la  m\u00e1xima 4 meses",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-03-26T10:47:27.408Z",
+            "allOriginCountries": true,
+            "primaryCategory": "RESEARCH",
+            "promoterUniversity": {},
+            "ownerCountry": "ES",
+            "exclusive": true,
+            "promoter": "Universidad de La Rioja",
+            "id": "5c94ab37ab011d0021c4b5ab",
+            "total_scholarships": 1,
+            "slug": "https-www-unirioja-es-servicios-sgib-investigacion-becas_movilidad_iberoamerica2019-shtml",
+            "start_date": "2019-03-25T23:00:00.000Z",
+            "summary": "<p>La beca tiene como objetivo reforzar la movilidad e intercambio de jovenes profesores y alumnos de doctorado.</p>",
+            "currentStage": 1,
+            "requirements": "<p>-Estar inscrito en el Programa \"Becas Iberoam\u00e9rica Santander Investigaci\u00f3n a trav\u00e9s del enlace <u>www.becas.santander.com</u></p><p>-Tener la condici\u00f3n de personal docente e investigador (preferentemente menos de 35 a\u00f1os) y estar vinculado a funcionaral o contratactualmente con la UR.</p><p>-Los alumnos de doctorado deber\u00e1n estar matriculados en la UR en el momento de realizar su solicitud</p><p><br></p><p><br></p><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2019-04-30T21:59:59.999Z",
+                        "start_date": "2019-03-25T23:00:00.000Z"
+                  },
+                  "grant_end_date": "2019-05-31T21:59:59.999Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104b5",
+            "isXL": false,
+            "secondaryCategory": "STUDIES",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": true
+            },
+            "corporative": false,
+            "name": "Becas Iberoam\u00e9rica Santander Investigaci\u00f3n ",
+            "stages": [
+                  {
+                        "endDate": "2019-04-30T21:59:59.999Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5e9752cb04b78a0013770bc8",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2019-05-31T21:59:59.999Z",
+                        "startDate": "2019-03-25T23:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-09-09T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>Convocatoria de Ayudas, cofinanciadas por el Banco Santander, y sus correspondientes Bases Reguladoras, para la realizaci\u00f3n de Tesis encaminadas a la obtenci\u00f3n de la Menci\u00f3n de \u201cDoctor Internacional\u201d para p<span style=\"color: black;\">romover la internacionalizaci\u00f3n de los estudios de doctorado e impulsar las acciones de movilidad de los doctorandos matriculados en la Escuela Internacional de Doctorado. </span></p><p><br></p><p class=\"ql-align-justify\"><span style=\"color: rgb(35, 31, 32);\">Las solicitudes se presentar\u00e1n&nbsp;mediante el Modelo de Solicitud (Anexo I), debidamente cumplimentado, disponible en </span><a href=\"https://www.urjc.es/becas-y-ayudas-eid\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.urjc.es/becas-y-ayudas-eid</a> <span style=\"color: rgb(35, 31, 32);\">dirigidas al Sr. Rector de la Universidad, </span><span style=\"color: black;\">por cualquiera de las formas previstas en el art. 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas y a su vez, registrarse en la aplicaci\u00f3n del Santander </span><a href=\"http://www.becas-santander.com/\" rel=\"noopener noreferrer\" target=\"_blank\">www.becas-santander.com</a>.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: rgb(35, 31, 32);\">El plazo de presentaci\u00f3n de solicitudes ser\u00e1 de </span><strong style=\"color: rgb(35, 31, 32);\">quince d\u00edas h\u00e1biles, </strong><span style=\"color: rgb(35, 31, 32);\">a contar desde el d\u00eda siguiente de la fecha de publicaci\u00f3n del extracto de esta convocatoria en el Bolet\u00edn Oficial de la Comunidad de Madrid.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+            "created_at": "2021-07-19T12:14:46.328Z",
+            "exclusive_universityName": "Universidad Rey Juan Carlos",
+            "ownerId": "5668ee1d-6b88-4b02-8fcd-09614092c62b",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Hasta 31 de diciembre de 2021",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2021-07-23T10:51:53.956Z",
+            "allOriginCountries": true,
+            "primaryCategory": "RESEARCH",
+            "promoterUniversity": {
+                  "name": "Universidad Rey Juan Carlos",
+                  "id": "5b35dba2b8796b61f4d104c6"
+            },
+            "ownerCountry": "ES",
+            "exclusive": true,
+            "promoter": "",
+            "id": "60f56cb6d512800014e89982",
+            "total_scholarships": 20,
+            "slug": "becas-santander-investigacion-ayudas-para-obtencion-mencion-de-doctor-internacional-eid",
+            "start_date": "2021-07-28T00:00:00.000Z",
+            "summary": "<p>La Convocatoria de Ayudas para la realizaci\u00f3n de Tesis encaminadas a la obtenci\u00f3n de la Menci\u00f3n de \u201cDoctor Internacional\u201d con el fin de p<span style=\"color: black;\">romover la internacionalizaci\u00f3n de los estudios de doctorado e impulsar las acciones de movilidad de los doctorandos matriculados en la Escuela Internacional de Doctorado. </span></p><p><span style=\"color: black;\">Para su inscripci\u00f3n, a trav\u00e9s de </span>https://sede.urjc.es/ y <span style=\"color: rgb(0, 102, 33);\">www.becas-santander.com </span>  a partir del d\u00eda siguiente a su publicaci\u00f3n en el BOCAM.</p><p><br></p><p><br></p>",
+            "currentStage": 1,
+            "requirements": "<p class=\"ql-align-justify\">Para optar a las siguientes<em> ayudas, </em>a que se refieren las bases reguladoras, los estudiantes de doctorado de la URJC deber\u00e1n reunir los siguientes requisitos:</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">a)&nbsp;Que se encuentren matriculados en Programas de Doctorado regulados por el RD 99/2011 y que cuenten con, al menos, una evaluaci\u00f3n anual positiva por parte de su Comisi\u00f3n Acad\u00e9mica.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">b)&nbsp;Que vayan a realizar una estancia m\u00ednima de tres meses en un centro de educaci\u00f3n superior o de investigaci\u00f3n en un pa\u00eds extranjero para realizar trabajos de investigaci\u00f3n o actividades de formaci\u00f3n, relacionadas directamente con el tema objeto de investigaci\u00f3n de su tesis doctoral. <span style=\"color: black;\">El tiempo de estancia de tres meses en el pa\u00eds extranjero se computar\u00e1 de tal manera que el d\u00eda final ser\u00e1 el d\u00eda del mes equivalente a aquel en que se inici\u00f3 la estancia. Si en el mes final no hubiera d\u00eda equivalente, se entender\u00e1 que la estancia termina el \u00faltimo d\u00eda del mes. </span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">c)&nbsp;Las ayudas no podr\u00e1n solicitarse para realizar estancias en el pa\u00eds de residencia, ni de origen, del estudiante.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">d)&nbsp;En el caso del Personal Investigador en Formaci\u00f3n regulado por el RD 63/2006, o norma que lo sustituya, adscrito a un Proyecto de Investigaci\u00f3n, en fase de beca o contrato, que disfrute de una Ayuda a la Investigaci\u00f3n obtenida a trav\u00e9s de convocatorias p\u00fablicas competitivas de \u00e1mbito auton\u00f3mico, estatal o internacional, y cuyo objetivo sea fundamentalmente la formaci\u00f3n investigadora, podr\u00e1n optar a este tipo de ayudas siempre que sean alumnos de doctorado de la URJC y en la convocatoria de su beca no existan partidas para la realizaci\u00f3n de estancias en centros o universidades extranjeras o que, existiendo partidas para las mismas, la resoluci\u00f3n tras participar en la convocatoria correspondiente haya sido denegatoria.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">e) No podr\u00e1 solicitarse la ayuda por quienes ya cuenten con estancias previas en centros extranjeros que cumplan los requisitos para optar a la menci\u00f3n de doctor internacional. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">f)&nbsp;Quienes hayan disfrutado de estancias en centros extranjeros de duraci\u00f3n inferior a la requerida reglamentariamente para optar a la menci\u00f3n de doctor internacional, podr\u00e1n ser beneficiarios de la presente ayuda.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">g) En ning\u00fan caso podr\u00e1n obtener la condici\u00f3n de beneficiario las personas en quienes concurra alguna de las circunstancias previstas en el art. 13.2 de la Ley 38/2003, General de Subvenciones. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">h) En caso de igualdad en la baremaci\u00f3n, tendr\u00e1 preferencia aquel candidato que solicit\u00f3 la ayuda en la convocatoria anterior (a\u00f1o 2020) y que no pudo disfrutar de la misma por problemas de movilidad derivados de la pandemia COVID-19.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Estos requisitos deben cumplirse desde la presentaci\u00f3n de las solicitudes hasta la finalizaci\u00f3n de todo el proceso de la ayuda.&nbsp;</p><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-09-09T23:00:00.000Z",
+                        "start_date": "2021-07-28T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-10-22T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "escueladoctorado@urjc.es"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/47mwtshkrdhmrek",
+                  "mimetype": "image/jpeg",
+                  "idDoc": "47mwtshkrdhmrek",
+                  "title": "logoURJC_EID (3)"
+            },
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104c6",
+            "isXL": false,
+            "secondaryCategory": "STUDIES",
+            "backgroundDocuments": [
+                  {
+                        "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/4ry5hkrdghgi5",
+                        "mimetype": "image/png",
+                        "idDoc": "4ry5hkrdghgi5",
+                        "title": "logo-eid"
+                  }
+            ],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Investigaci\u00f3n | AYUDAS PARA OBTENCI\u00d3N MENCI\u00d3N DE DOCTOR INTERNACIONAL EID",
+            "stages": [
+                  {
+                        "endDate": "2021-09-09T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "60fa9f4965713e001431944b",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2021-10-22T23:00:00.000Z",
+                        "startDate": "2021-07-28T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-05-26T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": false,
+                  "tuition": true,
+                  "travel": false
+            },
+            "description": "<p>La finalidad de estas ayudas es fomentar la captaci\u00f3n de talento predoctoral y la lectura de tesis doctorales en la Universitat de Girona (UdG), mediante contratos laborales de investigador en formaci\u00f3n de 3 a\u00f1os (o de 5 en caso de personas discapacitadas), mientras se realiza el doctorado.</p><p><br></p><p>Pueden ser de dos tipos en funci\u00f3n del la financiaci\u00f3n: </p><ul><li>Financiado todo la UdG (cofinanciado por el Banco Santander)</li><li>Financiado al 50% por empresa, entidad o grupo de investigaci\u00f3n de la misma UdG (IFUdG-AE - acci\u00f3n especial)</li></ul><p><br></p><p>Las personas candidatas, directoras de tesis y los grupos de investigaci\u00f3n deber\u00e1n cumplir unos requisitos detallados en las Bases reguladoras y en la Convocatoria.</p><p><br></p><p>La ayuda incluye los costes salariales, de la seguridad social, la tutela acad\u00e9mica del doctorado y los cr\u00e9ditos formativos obligatorios y, en caso de aceptar la realizaci\u00f3n de docencia, tambi\u00e9n de una ayuda de movilidad en la convocatoria de la UdG IFMOB.</p><p><br></p><p>Las ayudas se distribuyen por programas de doctorado. Pod\u00e9is encontrar la oferta formativa aqu\u00ed:</p><p>https://www.udg.edu/es/estudia/oferta-formativa/programes-de-doctorat</p><p><br></p><p>La solicitud completa, una vez completado este formulario, se debe realizar en la web de la UdG que os aparecer\u00e1 en la notificaci\u00f3n.</p><p>versi\u00f3n en catal\u00e1n: https://aserv2.udg.edu/RecercaIfUdG/Account/SetCulture?culture=ca</p><p>versi\u00f3n en ingl\u00e9s: https://aserv2.udg.edu/RecercaIfUdG/Account/SetCulture?culture=en</p><p>versi\u00f3n en espa\u00f1ol: https://aserv2.udg.edu/RecercaIfUdG/Account/SetCulture?culture=es</p><p><br></p><p>Pod\u00e9is encontrar m\u00e1s informaci\u00f3n, las bases reguladoras y los modelos y preguntas frecuentes, en la web de la Universitat de Girona: https://www.udg.edu/ca/investiga/suport-r-d-i/convocatories</p><p><br></p><p><br></p>",
+            "created_at": "2021-05-04T11:47:12.054Z",
+            "exclusive_universityName": "",
+            "ownerId": "a009700d-55a2-4edf-b78b-d9a8e6f7c547",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "3 a\u00f1os, o 5 para personas con discapacidad",
+            "mode": "faceToFace",
+            "diversity": true,
+            "last_status_change": "2021-05-04T12:11:52.874Z",
+            "allOriginCountries": true,
+            "primaryCategory": "RESEARCH",
+            "promoterUniversity": {
+                  "name": "Universidad de Girona",
+                  "id": "5b35dba2b8796b61f4d104ad"
+            },
+            "ownerCountry": "ES",
+            "exclusive": false,
+            "promoter": "",
+            "id": "609134406cf9c300144375da",
+            "total_scholarships": 14,
+            "slug": "becas-santander-investigacion-ifudg2021-ayudas-para-investigadores-en-formacion-de-la-udg",
+            "start_date": "2021-05-07T00:00:00.000Z",
+            "summary": "<p>Ven a disfrutar de un contrato laboral predoctoral de 3 a\u00f1os (o 5 en caso de persona con discapacidad) mientras realizas tu tesis doctoral en la Universitat de Girona.</p>",
+            "currentStage": 1,
+            "requirements": "",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-05-26T23:00:00.000Z",
+                        "start_date": "2021-05-07T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-09-28T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "recercaoitt@udg.edu"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/1djvhhkoa0slsa",
+                  "mimetype": "image/png",
+                  "idDoc": "1djvhhkoa0slsa",
+                  "title": "UdG_nou_adaptat"
+            },
+            "allDestinations": true,
+            "exclusive_university": "",
+            "isXL": false,
+            "secondaryCategory": "STUDIES",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Investigaci\u00f3n | IFUdG2021 ayudas para investigadores en formaci\u00f3n de la UdG",
+            "stages": [
+                  {
+                        "endDate": "2021-05-26T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "60ec1548d512800014e78c30",
+                        "customMessageInscription": "<p>Estimado/a candidato/a:</p><p><br></p><p>Una vez iniciada la inscripci\u00f3n en la plataforma del Banco Santander <strong><u>debes finalizarla en la web de la UdG.</u></strong></p><p><br></p><p>versi\u00f3n en catal\u00e1n: https://aserv2.udg.edu/RecercaIfUdG/Account/SetCulture?culture=ca</p><p>versi\u00f3n en ingl\u00e9s: https://aserv2.udg.edu/RecercaIfUdG/Account/SetCulture?culture=en</p><p>versi\u00f3n en espa\u00f1ol: https://aserv2.udg.edu/RecercaIfUdG/Account/SetCulture?culture=es</p><p><br></p><p>Deber\u00e1s adjuntar toda la documentaci\u00f3n que se te ir\u00e1 requiriendo, hasta obtener el justificante final en pdf, que se deber\u00e1 firmar y enviar por correo electr\u00f3nico a <strong><u>recercaoitt@udg.edu.</u></strong></p><p><br></p><p>La fecha l\u00edmite es el 26/05/2021</p>",
+                        "value": 1,
+                        "grantDateLimit": "2021-09-28T23:00:00.000Z",
+                        "startDate": "2021-05-07T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-04-23T23:00:00.000Z",
+            "benefits": {
+                  "courses": true,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "1000",
+                                    "numberPrograms": "10"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": true
+            },
+            "description": "<p>The opportunities fund supports Abertay students who want to enhance their student experience. This fund is open to students who sit under the widening participation criteria. Due to Covid-19, students can discuss various opportunities with the Student Advisory team since travel may not be an option.</p><p><br></p><p>The maximum fund allocated per opportunity is \u00a32,000, and the minimum is \u00a350. Students are asked to give a breakdown of their costs in the application form.</p>",
+            "created_at": "2021-03-25T14:50:29.621Z",
+            "exclusive_universityName": "UAD University of Abertay",
+            "ownerId": "e451ae50-2257-4b05-bcad-aa09dbd80a28",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "n/a",
+            "mode": "semiFace",
+            "diversity": false,
+            "last_status_change": "2021-03-25T15:43:07.288Z",
+            "allOriginCountries": true,
+            "primaryCategory": "SKILLS",
+            "promoterUniversity": {
+                  "name": "University of Abertay",
+                  "id": "5dcab7fb1f675e0014222816"
+            },
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "",
+            "id": "605ca3352dcfd60014fd0764",
+            "total_scholarships": 10,
+            "slug": "santander-scholarships-skills-santander-opportunities-fund",
+            "start_date": "2021-03-29T00:00:00.000Z",
+            "summary": "<p>Funding has been allocated for work placements (as part of course), internships, conference travel, visits to partner universities, IT equipment and specialist software for university projects, and online conferences for students who have financially challenging circumstances. Under the current situation, due to Covid-19, students can also apply for different opportunities that will help their degree</p>",
+            "currentStage": 1,
+            "requirements": "<p>The opportunities fund supports Abertay students who want to enhance their student experience but not able to do so due to lack of finances.</p><p><br></p><p class=\"ql-align-justify\">Applications are invited from students from who fall into one or more of the following groups:</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students with a household income* under \u00a334,000 (discounting personal earnings)</p><p class=\"ql-align-justify\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Care Experienced students</p><p class=\"ql-align-justify\">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students under 25 who are irreconcilably estranged from their parents/guardians</p><p class=\"ql-align-justify\">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students with disabilities or long term medical conditions (including specific learning difficulties and mental or physical health conditions)</p><p class=\"ql-align-justify\">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students who are single/lone parents</p><p class=\"ql-align-justify\">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students with caring responsibilities&nbsp;<em>(A carer is anyone who cares, unpaid, for a friend or family member (including children) who due to illness, disability, a mental health problem or an addiction cannot cope without their support)</em></p><p class=\"ql-align-justify\">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applications will be considered from students with other exceptional circumstances which have a significant financial impact on their ability to undertake an eligible opportunity (please discuss with a Student Advisor before applying)</p><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-04-23T23:00:00.000Z",
+                        "start_date": "2021-03-29T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-05-03T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "advisory@abertay.ac.uk"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5dcab7fb1f675e0014222816",
+            "isXL": false,
+            "secondaryCategory": "STUDIES",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Scholarships Skills | Santander Opportunities Fund",
+            "stages": [
+                  {
+                        "endDate": "2021-04-23T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "605caf8b2dcfd60014fd09d4",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2021-05-03T23:00:00.000Z",
+                        "startDate": "2021-03-29T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-04-30T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "175",
+                                    "numberPrograms": "84"
+                              },
+                              {
+                                    "amount": "0",
+                                    "numberPrograms": "0"
+                              }
+                        ],
+                        "currency": "EUR"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>Ayudas del Banco Santander, para estudiantes participantes en los programas de movilidad ISEP, Convenios Bilaterales, Mart\u00edn de Rada y Palafox 2021-2022.</p>",
+            "created_at": "2021-03-11T11:26:40.818Z",
+            "exclusive_universityName": "Universidad P\u00fablica de Navarra",
+            "ownerId": "e0e12456-938b-4d4b-b6a0-de12466e8362",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Movilidad semestral: 4,5 meses.  Movilidad anual: 9 meses.",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2021-03-16T13:23:28.432Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "ES",
+            "exclusive": true,
+            "promoter": "Universidad P\u00fablica de Navarra",
+            "id": "6049fe704012ff001544d857",
+            "total_scholarships": 84,
+            "slug": "becas-santander-estudios-upna-movilidad-internacional-no-erasmus-2021-2022",
+            "start_date": "2021-03-17T00:00:00.000Z",
+            "summary": "<p>Las ayudas a la movilidad internacional de los programas de movilidad ISEP, Convenios Bilaterales, Mart\u00edn de Rada y Palafox 2021-2022 se distribuyen entre los estudiantes de Grado y M\u00e1ster con mejores expedientes por media ponderada (media expediente/media titulaci\u00f3n), seleccionados en la convocatoria de Programas Internacionales de Movilidad 2021/2022 de la Secci\u00f3n de Internacionalizaci\u00f3n y Cooperaci\u00f3n de la Universidad P\u00fablica de Navarra.</p>",
+            "currentStage": 1,
+            "requirements": "",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-04-30T23:00:00.000Z",
+                        "start_date": "2021-03-17T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-05-17T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "becas.movilidad@unavarra.es"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104c4",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Estudios | UPNA Movilidad internacional no Erasmus 2021-2022",
+            "stages": [
+                  {
+                        "endDate": "2021-04-30T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "6206396f3472d600169b41cc",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2021-05-17T23:00:00.000Z",
+                        "startDate": "2021-03-17T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-05-18T23:59:59.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "200",
+                                    "numberPrograms": "10"
+                              },
+                              {
+                                    "amount": "500",
+                                    "numberPrograms": "10"
+                              },
+                              {
+                                    "amount": "1200",
+                                    "numberPrograms": "10"
+                              }
+                        ],
+                        "currency": "EUR"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>El Centre d\u2019Estudis de Postgrau (CEP), l\u2019Escola de Doctorat de la Universitat de les Illes Balears (EDUIB) i el Vicerectorat d'Investigaci\u00f3 i Internacionalitzaci\u00f3, juntament amb el patrocini del Banco Santander, amb la voluntat de contribuir al perfeccionament del potencial hum\u00e0 que hi ha en tots els seus \u00e0mbits d\u2019actuaci\u00f3, i conven\u00e7uts de la import\u00e0ncia que tenen el progr\u00e9s cient\u00edfic, la investigaci\u00f3, l\u2019excel\u00b7l\u00e8ncia formativa, la mobilitat i la qualificaci\u00f3 professional per al desenvolupament de la societat, han aportat el finan\u00e7ament necessari per tal de crear un Programa d\u2019Impuls, Mobilitat i Internacionalitzaci\u00f3 dirigit als estudis oficials de postgrau de la Universitat de les Illes Balears (UIB).</p><p>La present convocat\u00f2ria d\u00f3na les bases i les instruccions per sol\u00b7licitar ajusts per a la quarta d\u2019aquestes l\u00ednies: <span>Ajuts a la mobilitat d\u2019alumnat de la UIB vinculat a dobles titulacions i titulacions interuniversit\u00e0ries de M\u00e0ster i Doctorat i tesis doctorals en r\u00e8gim de co-tutela internacional o altres casos similars (en col\u00b7laboraci\u00f3 amb el SRI).</span></p><p class=\"ql-align-justify\">Aquesta l\u00ednia del programa ofereix un ajut que es destinar\u00e0 a contribuir a les seg\u00fcents despeses: pagament de taxes, tutela acad\u00e8mica, despeses de viatge no cobertes per convenis, despeses d\u2019allotjament i manutenci\u00f3. La despesa m\u00e0xima, per sol\u00b7licitant, ser\u00e0:</p><ul><li class=\"ql-align-justify\">Per estades inferiors o iguals a una setmana: 200 \u20ac per setmana, o part proporcional</li><li class=\"ql-align-justify\">Per estades entre una setmana i un mes: 500 \u20ac per mes, o part proporcional</li><li class=\"ql-align-justify\">Per estades entre un mes i un semestre: 1200 \u20ac per semestre, o part proporcional. L\u2019import d\u2019aquests ajuts podria ser superior si les circumst\u00e0ncies pressupost\u00e0ries del CEP/EDUIB i el SRI ho permeten.&nbsp;</li></ul>",
+            "created_at": "2019-07-26T07:16:52.379Z",
+            "exclusive_universityName": "Universidad de Las Islas Baleares",
+            "ownerId": "a0fd09f5-ff82-4039-b6fb-0a7c740f0946",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "1 curs acad\u00e8mic",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-09-04T07:50:38.672Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Universidad de Las Islas Baleares",
+                  "id": "5b35dba2b8796b61f4d104b1"
+            },
+            "ownerCountry": "ES",
+            "exclusive": true,
+            "promoter": "",
+            "id": "5d3aa8e4bde1250014dc0d1d",
+            "total_scholarships": 30,
+            "slug": "impuls-linia-4",
+            "start_date": "2019-09-04T00:00:00.000Z",
+            "summary": "<p>Ajuts a la mobilitat d'alumnat de la UIB per contribuir a les despeses de viatge, allotjament i manutenci\u00f3... per cursar dobles titulacions, co-tuteles internacionals o altres casos similars.</p>",
+            "currentStage": 1,
+            "requirements": "<p>Poden optar a aquests ajuts els <strong>estudiants matriculats</strong> en <strong>programes interuniversitaris o dobles titulacions de M\u00e0ster o Doctorat</strong> de la UIB, aix\u00ed com <strong>doctorands</strong> en r\u00e8gim de <strong>co-tutela internacional</strong> i matriculats en un programa de doctorat de la UIB o altres <strong>casos similars</strong> sempre i quan hi hagi un <strong>conveni de col\u00b7laboraci\u00f3</strong> vigent per a la realitzaci\u00f3 d'activitats curriculars. Els doctorands sol\u00b7licitants hauran de complir amb tots els requisits del programa de doctorat (controls aprovats, carta de tesis i pla de recerca presentats i aprovats, etc.) en el moment de l\u2019avaluaci\u00f3 de la sol\u00b7licitud</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-05-18T23:59:59.000Z",
+                        "start_date": "2019-09-04T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-05-29T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104b1",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": true,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Impuls, Mobilitat i Internacionalitzaci\u00f3 per a Estudis de Postgrau de la UIB: L\u00ednia 4",
+            "stages": [
+                  {
+                        "endDate": "2020-05-18T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5ea2fc81c46a780013c9e205",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-05-29T23:59:59.000Z",
+                        "startDate": "2019-09-04T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2019-07-05T23:59:59.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "2500",
+                                    "numberPrograms": "28"
+                              }
+                        ],
+                        "currency": "PLN"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>Zaaplikuj o mo\u017cliwo\u015b\u0107 uzyskania dodatkowego wsparcia finansowego Santander Universidades przeznaczonego na wydatki zwi\u0105zane z wizyt\u0105 studyjn\u0105, udzia\u0142em w konferencji zagranicznej, rozwojem naukowym i/lub osobistym lub inn\u0105 form\u0105 wymiany mi\u0119dzynarodowej! </p>",
+            "created_at": "2019-06-07T11:02:08.302Z",
+            "exclusive_universityName": "Uniwersytet Kardyna\u0142a Stefana Wyszy\u0144skiego",
+            "ownerId": "a9fbc04b-9253-4be7-b2a6-ef6581a48c7a",
+            "distribution": {
+                  "distributors": []
+            },
+            "duration": "Stypendium musi zosta\u0107 zrealizowane do 30 listopada 2019 r.",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-06-07T12:49:37.039Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "PL",
+            "exclusive": true,
+            "promoter": "Uniwersytet Kardyna\u0142a Stefana Wyszy\u0144skiego",
+            "id": "5cfa443066255800141b09cd",
+            "total_scholarships": 28,
+            "slug": "mobility_uksw",
+            "start_date": "2019-06-10T00:00:00.000Z",
+            "summary": "<p>Zaaplikuj o wsparcie finansowe na wydatki zwi\u0105zane z wizyt\u0105 studyjn\u0105, udzia\u0142em w konferencji zagranicznej, rozwojem naukowym i/lub osobistym lub inn\u0105 form\u0105 wymiany mi\u0119dzynarodowej!</p><p><br></p>",
+            "currentStage": 1,
+            "requirements": "<p>1.\tDofinansowanie/stypendium mo\u017ce by\u0107 przyznane osobie, kt\u00f3ra uko\u0144czy\u0142a co najmniej pierwszy semestr studi\u00f3w i jest studentem/ka studi\u00f3w I, II lub III stopnia, b\u0105d\u017a jednolitych studi\u00f3w magisterskich, a w poprzednim roku akademickim osi\u0105gn\u0105\u0142 \u015bredni\u0105 ocen z toku studi\u00f3w nie ni\u017csz\u0105 ni\u017c 4,00.</p><p>2.\tDofinansowanie/stypendium mo\u017ce by\u0107 przyznane pracownikowi UKSW, kt\u00f3ry spe\u0142nia \u0142\u0105cznie nast\u0119puj\u0105ce warunki:&nbsp;</p><p>1)\tjest nauczycielem akademickim dla kt\u00f3rego UKSW jest podstawowym miejscem pracy i posiada znacz\u0105ce osi\u0105gni\u0119cia w obszarze rozwoju naukowego i badawczego lub wykazuje si\u0119 znacz\u0105cym zaanga\u017cowaniem w inicjatywy na rzecz rozwoju Uczelni;&nbsp;</p><p>2)\tnie by\u0142 karany kar\u0105 porz\u0105dkow\u0105 w roku poprzedzaj\u0105cym przyznanie dofinansowania.</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2019-07-05T23:59:59.000Z",
+                        "start_date": "2019-06-10T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2019-07-12T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d1043a",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": true,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "UKSW & Santander Universidades Mobility Fund ",
+            "stages": [
+                  {
+                        "endDate": "2019-07-05T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "6243f511b58b45001516f9ee",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2019-07-12T23:59:59.000Z",
+                        "startDate": "2019-06-10T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-06-01T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": true
+            },
+            "description": "<p>The University of Lincoln is pleased to announce details of this year's Study Abroad Scholarship offered by Santander Universities UK. Up to 20 study abroad scholarships are available for full time undergraduate (Bachelor) students currently enrolled at the University of Lincoln in academic year 2020/21. Successful applicants can expect to receive up to \u00a32,000 to help cover the costs of an overseas study/work/volunteer/field trip or virtual internship as part of their degree at the University of Lincoln.</p><p><br></p><p>The University welcomes applications from <strong>all full time University of Lincoln undergraduate students</strong>. However we are particularly interested to hear from students who encounter real barriers to study and overseas travel which could include illness or disability, estrangement or lack of support from family, financial hardship, caring responsibilities as well as students coming from a care background or ethnic minority groups. We also welcome applications from students who can demonstrate that they are first in family at University and/or have never previously travelled overseas, for whom this would be their first overseas experience.</p><p><br></p><p>Successful students will need to be able to engage in additional opportunities within the wider Santander Universities network, such as attendance at selected Santander events and meet-ups on campus.</p><p><br></p><p>If you have any further queries please contact the Global Opportunities office at GO@lincoln.ac.uk</p>",
+            "created_at": "2021-04-29T13:57:19.252Z",
+            "exclusive_universityName": "University of Lincoln",
+            "ownerId": "b29ea0ab-170c-4fa1-9c4c-05d2fd87c248",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Individual scholarships of between \u00a3300 and maximum \u00a32,000",
+            "mode": "faceToFace",
+            "diversity": true,
+            "last_status_change": "2021-04-29T14:02:29.140Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "University of Lincoln",
+                  "id": "5b35dba2b8796b61f4d1052b"
+            },
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "",
+            "id": "608abb3f6cf9c300144300d4",
+            "total_scholarships": 25,
+            "slug": "santander-scholarships-studies-university-of-lincoln-santander-study-abroad-scholarship",
+            "start_date": "2021-04-29T00:00:00.000Z",
+            "summary": "<p>An opportunity for full time University of Lincoln undergraduate students to apply for a Santander Scholarship to help fund plans to either study or work abroad as part of the degree, volunteer overseas over the summer, attend a summer school at a foreign university, join a University of Lincoln overseas field trip, or undertake a virtual internship overseas from home.</p>",
+            "currentStage": 1,
+            "requirements": "<p>By applying to the programme through the Santander Scholarship Platform, students provide their consent for their personal data (name and email address) to be shared with Santander (including associated companies of Santander, where applicable) and its service providers. Students' personal data will be used for administrating and delivery of the scholarship.</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-06-01T23:00:00.000Z",
+                        "start_date": "2021-04-29T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-06-11T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "go@lincoln.ac.uk"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/1djvhhko2y7dk0",
+                  "mimetype": "image/png",
+                  "idDoc": "1djvhhko2y7dk0",
+                  "title": "UOL_greyscale_portrait_black_1080x1095px"
+            },
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d1052b",
+            "isXL": false,
+            "secondaryCategory": "INTERNSHIP",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Scholarships Studies | University of Lincoln Santander Study Abroad Scholarship",
+            "stages": [
+                  {
+                        "endDate": "2021-06-01T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "608abc75fcece1001453599d",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2021-06-11T23:00:00.000Z",
+                        "startDate": "2021-04-29T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2021-06-25T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p class=\"ql-align-justify\">La Universidad de Alcal\u00e1 ofrece hasta un m\u00e1ximo de 20 Becas de Residencia para realizar Tesis Doctorales en R\u00e9gimen de Cotutela. Las becas se conceder\u00e1n en r\u00e9gimen de publicidad, objetividad y concurrencia competitiva entre los candidatos.</p><p class=\"ql-align-justify\">Se entiende por Tesis en Cotutela aqu\u00e9lla que se realiza en dos universidades, una espa\u00f1ola y otra extranjera. Esto supone que el estudiante est\u00e9 matriculado, tanto en la Universidad espa\u00f1ola, como en la extranjera. Una vez defendida la Tesis Doctoral, el estudiante obtendr\u00e1 dos t\u00edtulos de Doctor.&nbsp;</p><p><br></p>",
+            "created_at": "2020-11-13T12:28:57.603Z",
+            "exclusive_universityName": "",
+            "ownerId": "db44eecc-e731-4aea-8f7c-ec0653a9929b",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "6 meses",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2020-12-09T09:20:38.718Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "ES",
+            "exclusive": false,
+            "promoter": "Universidad de Alcal\u00e1",
+            "id": "5fae7c0956331100118780b8",
+            "total_scholarships": 20,
+            "slug": "becas-residencia-uah-santander-maria-guzman-estudiantes-internacionales-doctorado-cotutela-20-21",
+            "start_date": "2021-01-10T00:00:00.000Z",
+            "summary": "<p>La Universidad de Alcal\u00e1 ofrece hasta un m\u00e1ximo de 20 Becas de Residencia para realizar Tesis Doctorales en R\u00e9gimen de Cotutela. Las becas se conceder\u00e1n en r\u00e9gimen de publicidad, objetividad y concurrencia competitiva entre los candidatos.</p>",
+            "currentStage": 1,
+            "requirements": "<ol><li class=\"ql-align-justify\">Podr\u00e1n ser candidatos los estudiantes de Doctorado procedentes de universidades extranjeras que hayan formalizado un Acuerdo de Cotutela de Tesis con la Universidad de Alcal\u00e1 o cuya formalizaci\u00f3n est\u00e9 en fase avanzada y que deseen realizar una estancia en la Universidad de Alcal\u00e1 para seguir trabajando en su Tesis Doctoral.</li><li class=\"ql-align-justify\">Los candidatos deber\u00e1n estar matriculados en un Programa de Doctorado en su universidad de origen y deber\u00e1n estar matriculados o haber sido aceptados en un Programa de Doctorado de la Universidad de Alcal\u00e1.&nbsp;</li><li class=\"ql-align-justify\">No podr\u00e1n solicitar estas becas los ciudadanos espa\u00f1oles ni los extranjeros que sean residentes en Espa\u00f1a en el momento de la solicitud de la beca.&nbsp;&nbsp;</li></ol><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2021-06-25T23:00:00.000Z",
+                        "start_date": "2021-01-10T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2021-06-29T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "BECAS RESIDENCIA UAH-SANTANDER \u201cMAR\u00cdA GUZM\u00c1N\u201d ESTUDIANTES INTERNACIONALES DOCTORADO COTUTELA.  20-21",
+            "stages": [
+                  {
+                        "endDate": "2021-06-25T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "601d66a7f35b610011d707d1",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2021-06-29T23:00:00.000Z",
+                        "startDate": "2021-01-10T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-01-31T23:59:59.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "200",
+                                    "numberPrograms": "20"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p><strong>The scholarships:</strong></p><ul><li>a minimum of 20 awards ranging from \u00a3200 to a maximum value of \u00a31,000</li><li>can be awarded for a variety of projects, including language exchange programmes, initiatives to promote volunteering and the development of employability skills</li><li>can be used to study/research at a partner institution within the Santander Universities network at one of the countries listed</li></ul><p>Where the panel believes that a proposal does not represent value for money yet wishes to partially support the activity, funding may be offered at a reduced level.</p><p><br></p><p>Before completing the application form, please read the criteria and regulations carefully.</p><p><br></p><p>The University reserves the right to vary all or any scholarship awards at its sole discretion<span style=\"color: rgb(31, 73, 125);\">.</span></p><p><strong>Criteria</strong></p><p>The principal criterion for the award of a grant in 2019/20 is that the proposed project will make a demonstrable and tangible contribution to the applicant\u2019s studies, research or employability. Applicants must explain how the proposed project will satisfy this requirement.</p><p>We welcome applications from students for whom travel abroad would facilitate and augment existing extra-curricular learning initiatives or directly benefit their course.</p><p>Successful applicants will be required to write a short review or summary of their experiences abroad for publication within University and Santander materials.</p><p><strong>Eligibility</strong></p><p>University of Plymouth students both undergraduate and postgraduate are eligible for these awards.</p><p>In the case of student applications, priority will be given to students from a BAME background.<span style=\"color: rgb(31, 73, 125);\"> </span></p><p><span style=\"color: rgb(31, 73, 125);\">Funds permitting, priority will then be extended to the following groups</span>:</p><ul><li>from low participation neighbourhoods (identified via POLAR 3 methods)</li><li><span style=\"color: windowtext;\">who declare a disability</span></li><li>vulnerable groups, e.g. care leavers, estranged students</li><li>students must have obtained full student funding with Student Finance England/Student Finance Wales as per their circumstances</li></ul><p><strong>Applicants must:</strong></p><ul><li>write a clear application, demonstrating thorough research into their application for scholarship funding</li><li>include a clear breakdown of expected costs</li><li>describe how receiving the support would enhance their academic performance and future employability</li></ul><p>Preference will be given to applicants who demonstrate that the proposed mobility will benefit their course of study, employability or other extra-curricular learning initiatives being pursued.</p><p>Awards must be taken up within the <a href=\"https://www.plymouth.ac.uk/student-life/your-studies/essential-information/regulations/important-dates\" target=\"_blank\">2019/20 academic year</a> and travel must take place by 31 August 2020.</p><p>The value of the scholarship will be paid directly to the scholarship holder and can be used as a contribution towards the costs of travel, accommodation, subsistence or course attendance.</p><p>The University has a duty of care towards students and consequently will risk assess the proposed activity within the student\u2019s application.&nbsp;</p><p>In the event there is a risk to the student, e.g. travelling in a country where the Foreign and Commonwealth Office does not recommend travel due to safety concerns, the application may not be supported.</p><p>&nbsp;</p>",
+            "created_at": "2019-10-29T09:37:46.587Z",
+            "exclusive_universityName": "University of Plymouth",
+            "ownerId": "d1c3425b-47ce-4f37-9983-9b7fc5f5cfe9",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Must be used by 31 July 2020.",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-11-15T13:08:38.083Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "UNIVERSITY OF PLYMOUTH",
+            "id": "5db8086a088564001457ffc6",
+            "total_scholarships": 20,
+            "slug": "university-of-plymouth-santander-scholarship",
+            "start_date": "2019-11-15T00:00:00.000Z",
+            "summary": "<p>This is an opportunity for Plymouth students to undertake a project, trip or study with funding from Santander.</p>",
+            "currentStage": 1,
+            "requirements": "<p> <strong>Eligibility</strong></p><p>University of Plymouth students both undergraduate and postgraduate are eligible for these awards.</p><p>In the case of student applications, priority will be given to students from a BAME background.<span style=\"color: rgb(31, 73, 125);\"> </span></p><p><span style=\"color: rgb(31, 73, 125);\">Funds permitting, priority will then be extended to the following groups</span>:</p><ul><li>from low participation neighbourhoods (identified via POLAR 3 methods)</li><li><span style=\"color: windowtext;\">who declare a disability</span></li><li>vulnerable groups, e.g. care leavers, estranged students</li><li>students must have obtained full student funding with Student Finance England/Student Finance Wales as per their circumstances</li></ul><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-01-31T23:59:59.000Z",
+                        "start_date": "2019-11-15T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-03-31T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d10514",
+            "isXL": false,
+            "secondaryCategory": "LANGUAGE",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": true,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "UNIVERSITY OF PLYMOUTH SANTANDER SCHOLARSHIP",
+            "stages": [
+                  {
+                        "endDate": "2020-01-31T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5e992c1a15622c0014e37e31",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-03-31T23:59:59.000Z",
+                        "startDate": "2019-11-15T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-06-01T23:59:59.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "500",
+                                    "numberPrograms": "20"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>\u00a3500 towards the costs of participating in one of the approved 2019-20 International Short programmes or International Summer 2020 programmes</p>",
+            "created_at": "2019-08-13T12:09:32.895Z",
+            "exclusive_universityName": "Swansea University",
+            "ownerId": "143c142d-3b03-4f6e-b122-cbd1e1ad28f3",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Valid for approved Short and Summer Programmes in 2020",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-11-27T14:07:17.042Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "Swansea University",
+            "id": "5d52a87c16b8ea00142a817c",
+            "total_scholarships": 20,
+            "slug": "santander-scholarships-for-international-summer-and-short-programmes",
+            "start_date": "2019-11-27T00:00:00.000Z",
+            "summary": "<p>Scholarships for students taking part in one of our approved 2019-20 International short programmes or international summer 2020 programmes</p>",
+            "currentStage": 1,
+            "requirements": "<p>Priority is given to students from Widening Participation groups:-</p><p>1st generation of family at University</p><p>Household income &lt; \u00a330,000 as per student finance application</p><p>Care Leaver's </p><p>Care Givers</p><p>Estranged Students</p><p>1st International experience</p><p>1st professional level work experience (summer programmes only)</p><p><br></p><p><br></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-06-01T23:59:59.000Z",
+                        "start_date": "2019-11-27T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-07-01T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/9p5vfyik3hd1be1",
+                  "mimetype": "image/jpeg",
+                  "idDoc": "9p5vfyik3hd1be1",
+                  "title": "999-SwanUni-Eng 2017 [662] resized"
+            },
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d10530",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": true,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Scholarships for International Summer and Short programmes",
+            "stages": [
+                  {
+                        "endDate": "2020-06-01T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5e7a0f2e4e527a00162fb016",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-07-01T23:59:59.000Z",
+                        "startDate": "2019-11-27T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2022-05-05T23:00:00.000Z",
+            "benefits": {
+                  "courses": true,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": true
+            },
+            "description": "<p>The Santander Mobility Award aims to help students gain <strong>short-term study or research international mobility </strong>preferably at another institution in the international Santander Universities network. #</p><p>Awards are <strong>open to&nbsp;all students </strong>in the University&nbsp;and&nbsp;will be made up&nbsp;to a&nbsp;maximum value of \u00a31,000.&nbsp;* Due to the ongoing Pandemic and travel restrictions, we may consider offering awards of a smaller value towards online and virtual international mobility.&nbsp;</p><p><strong>Criteria:</strong>&nbsp;The following general principles will be applied in judging the applications:</p><ul><li>Quality, originality and feasibility of the study or research proposal.</li><li>On their own merit, based on the education level and experience of the individual student or staff.</li><li>Priority will be given to applicants in receipt of a SAAS Young/Independent Students' Bursary, articulation students/college entrants and students meeting any of our&nbsp;<a href=\"https://www.abdn.ac.uk/study/undergraduate/widening-access-criteria--2848.php\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(5, 125, 188);\">widening access criteria</a>.**</li></ul><p><span style=\"color: rgb(68, 68, 68);\">Reports of some prior successful awardees and their experiences abroad can be found of the&nbsp;</span><a href=\"https://www.abdn.ac.uk/staffnet/research/Santander-International-Experiences.php\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(54, 85, 148); background-color: rgb(255, 255, 255);\">Santander International Experiences</a><span style=\"color: rgb(68, 68, 68);\">&nbsp;page.</span></p><p>Decisions will be taken as soon as possible after the closing date and we expect all outcomes to be notified within one month \u2013 this should be taken into account when considering the dates of trips for which funding is sought</p><p><em>#&nbsp;Please note that expenditure will be claimed as per the&nbsp;</em><a href=\"https://www.abdn.ac.uk/staffnet/documents/finance-policies-and-procedures/Expenses_Benefits_July_2017_Final.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(5, 125, 188);\"><em>University\u2019s Expenses and Benefits policy</em></a><em>.</em></p><p><em>**&nbsp;If you have any questions regarding these widening access criteria, please contact the University Widening Participation Officer .&nbsp;</em></p><p>** Applications will not currently be accepted to travel to Russia due to the ongoing situation, travel sanctions and Foreign, Commonwealth &amp; Development Office (FCDO) travel advice. <em style=\"color: rgb(68, 68, 68);\">Awardees must apply for&nbsp;</em><a href=\"https://www.abdn.ac.uk/staffnet/working-here/insurance-367.php\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(54, 85, 148); background-color: rgb(255, 255, 255);\"><em>University travel insurance cover</em></a><em style=\"color: rgb(68, 68, 68);\">&nbsp;before arranging travel.</em></p>",
+            "created_at": "2019-08-12T12:46:09.564Z",
+            "exclusive_universityName": "University of Aberdeen",
+            "ownerId": "fd651c99-a552-4153-8aad-82062b625340",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Travel, subsistence and other expenses",
+            "mode": "faceToFace",
+            "diversity": true,
+            "last_status_change": "2022-02-28T13:16:44.567Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "University of Aberdeen",
+                  "id": "5b35dba2b8796b61f4d10529"
+            },
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "",
+            "id": "5d515f9170df7600139c4cb3",
+            "total_scholarships": 19,
+            "slug": "aberdeensma2022",
+            "start_date": "2022-03-01T00:00:00.000Z",
+            "summary": "<p>Funding for current University of Aberdeen students to gain short-term study or research international mobility experience preferably at another institution in the international <a href=\"https://www.santander.com/en/our-approach/inclusive-and-sustainable-growth/support-for-higher-education\" rel=\"noopener noreferrer\" target=\"_blank\">Santander Universities network</a>.</p>",
+            "currentStage": 1,
+            "requirements": "<p _msthash=\"197782\" _msttexthash=\"20695727\"></p><p _msthash=\"197782\" _msttexthash=\"6444490\"><strong>Open to all current University of Aberdeen students</strong>: undergraduate, postgraduate and research students.</p><p _msthash=\"197782\" _msttexthash=\"16318198\">The University is fully committed to principles of equality and diversity for all staff and students. We welcome applications from all genders, backgrounds and communities.</p><p _msthash=\"197782\" _msttexthash=\"20791277\">Preference will be given to applicants in receipt of a SAAS Young/Independent Students' Bursary, articulation students/college entrants and students meeting any of <strong>our widening access criteria</strong>.*</p><p _msthash=\"197782\" _msttexthash=\"20791277\"><em>Applicants must be a registered student at the University of Aberdeen and must remain so until after the conclusion of their travel/use of the award.</em></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-05-05T23:00:00.000Z",
+                        "start_date": "2022-03-01T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2022-05-13T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "santandermobility@abdn.ac.uk"
+            ],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d10529",
+            "isXL": false,
+            "secondaryCategory": "RESEARCH",
+            "backgroundDocuments": [
+                  {
+                        "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/4u4ml06s72ui",
+                        "mimetype": "image/jpeg",
+                        "idDoc": "4u4ml06s72ui",
+                        "title": "2022 Banner 2"
+                  }
+            ],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Mobility Award 2022 for current University of Aberdeen students (ONLY)",
+            "stages": [
+                  {
+                        "endDate": "2022-05-05T23:00:00.000Z",
+                        "customMessageGrant": "<p>I am delighted to inform you that your application for the <strong>Santander Mobility Awards 2022 has been successful.&nbsp;</strong></p><p><br></p><p>I would be most grateful if you could <strong>please confirm that you plan to accept the award, by emailing </strong><a href='mailto:santandermobility@abdn.ac.uk' rel='noopener noreferrer' target='_blank'><strong>santandermobility@abdn.ac.uk</strong></a><strong>. </strong>This will also be an opportunity to initiate discussion about your travel plans, timescales and method of payment.&nbsp;</p><p><br></p><p>In accepting the award, awardees must agree to the below terms and conditions as per the application.&nbsp;Any travel arrangements must be organised only after receiving a \u2018confirmation to travel\u2019 from us at <a href='mailto:santandermobility@abdn.ac.uk' rel='noopener noreferrer' target='_blank'>santandermobility@abdn.ac.uk</a>.</p><p><br></p><p>May I offer my congratulations on your achievement in obtaining this award, for which there was heavy competition. I wish you all the best for the utilisation of your award.</p>",
+                        "name": "",
+                        "customMessageReject": "<p>I regret to inform you that your Santander mobility application was unsuccessful on this occasion. There was heavy competition and after careful consideration, we have selected other applicants.</p><p><br></p><p>We would like to thank you for your effort and interest. </p><p><br></p><p>The Santander Mobility award can fund short-term mobility. We hope you will apply for the Santander mobility awards in 2023 and wish you all the best in the future.</p>",
+                        "_id": "627e5fe5917dbf0016591f0e",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2022-05-13T23:00:00.000Z",
+                        "startDate": "2022-03-01T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-03-31T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "1420",
+                                    "numberPrograms": "14"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>There will be up to 14 awards available for current University of Exeter students taking part in a Summer School or Short Programme in 2020.</p>",
+            "created_at": "2019-11-20T10:51:13.093Z",
+            "exclusive_universityName": "Exeter University",
+            "ownerId": "905e783f-4724-4083-80c3-92b86312970d",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "Summer School/Short Programme Fund",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-11-20T10:53:59.429Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "University of Exeter",
+            "id": "5dd51aa18167c100152ec4d1",
+            "total_scholarships": 14,
+            "slug": "summer-school-short-programme-fund",
+            "start_date": "2020-01-30T00:00:00.000Z",
+            "summary": "<p>There will be up to 14 awards available for current University of Exeter students taking part in a Summer School or Short Programme in 2020.</p>",
+            "currentStage": 1,
+            "requirements": "<p>The University of Exeter will have final discretion over the Summer School or Short Placement and its eligibility in relation to the fund.  </p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-03-31T23:00:00.000Z",
+                        "start_date": "2020-01-30T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-05-31T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104e7",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Summer School/Short Programme Fund",
+            "stages": [
+                  {
+                        "endDate": "2020-03-31T23:00:00.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5ee1d9ac0db0fb001358422f",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-05-31T23:00:00.000Z",
+                        "startDate": "2020-01-30T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-01-17T00:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>The&nbsp;Santander Universities Mobility Scholarship&nbsp;is available for students from Edinburgh Napier University participating in a single trimester or full year overseas exchange programme.&nbsp;Awards will be made to students who would ordinarily be unable to participate in their exchange without support from the scholarship.</p><p><br></p><p><strong>Value per annum:</strong>&nbsp;Variable</p><p><strong>Duration:</strong>&nbsp;One-off awards</p><p><strong>Award level:</strong>&nbsp;Undergraduate</p><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">Applications for the 2020/21 Santander Universities Mobility Scholarship will open&nbsp;</span><strong>Monday 18th&nbsp;November 2019&nbsp;</strong>and close&nbsp;<strong>Friday 17th January 2020</strong>.</p><p><br></p><p><span style=\"color: rgb(51, 51, 51);\">All students who submit a&nbsp;</span><a href=\"https://my.napier.ac.uk/International/Exchange/Pages/Study-Abroad-Application.aspx\" target=\"_blank\" style=\"color: rgb(55, 127, 155);\">Study Abroad Application</a><span style=\"color: rgb(51, 51, 51);\">&nbsp;will be directly invited to apply for the&nbsp;Santander Universities Mobility Scholarship.</span> Further information on how to apply for an overseas exchange programme is available through the following <a href=\"https://my.napier.ac.uk/International/Exchange/Pages/Study-Abroad-Application.aspx\" target=\"_blank\">link</a>.</p>",
+            "created_at": "2019-10-21T14:46:43.547Z",
+            "exclusive_universityName": "Edinburgh Napier University",
+            "ownerId": "b7c91dbe-9bc2-439f-934f-8fe593223262",
+            "distribution": {
+                  "distributors": []
+            },
+            "duration": "One-off Awards",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-12-05T12:48:51.799Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "Edinburgh Napier University",
+            "id": "5dadc4d3f13f930014c9b372",
+            "total_scholarships": 11,
+            "slug": "santander-universities-mobility-scholarship",
+            "start_date": "2019-12-05T00:00:00.000Z",
+            "summary": "<p><span style=\"color: rgb(51, 51, 51);\">This scholarship </span>is available to Edinburgh Napier University students participating in an overseas exchange who would ordinarily be unable to do so.</p>",
+            "currentStage": 1,
+            "requirements": "<p><span style=\"color: rgb(51, 51, 51);\">All students who wish to apply for the </span>Santander Universities Mobility Scholarship&nbsp;but first submit and a<span style=\"color: rgb(51, 51, 51);\">&nbsp;</span><a href=\"https://my.napier.ac.uk/International/Exchange/Pages/Study-Abroad-Application.aspx\" target=\"_blank\" style=\"color: rgb(55, 127, 155);\">Study Abroad Application</a> in order to be considered for funding<span style=\"color: rgb(51, 51, 51);\">.&nbsp;</span></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-01-17T00:00:00.000Z",
+                        "start_date": "2019-12-05T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-02-28T00:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104e6",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [
+                  {
+                        "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/ywzjkjk34are3r",
+                        "mimetype": "image/jpeg",
+                        "idDoc": "ywzjkjk34are3r",
+                        "title": "International Banner"
+                  }
+            ],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander Universities Mobility Scholarship",
+            "stages": [
+                  {
+                        "endDate": "2020-01-17T00:00:00.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5ea0723fa8c14100124563fb",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-02-28T00:00:00.000Z",
+                        "startDate": "2019-12-05T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-03-13T23:59:59.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "2300",
+                                    "numberPrograms": "10"
+                              }
+                        ],
+                        "currency": "EUR"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p><span style=\"color: rgb(76, 76, 76);\">As Bolsas Santander Ibero-Americanas destinam-se aos estudantes que pretendam realizar mobilidade internacional num pa\u00eds latino-americano e t\u00eam um valor pecuni\u00e1rio de 2 300 euros. A institui\u00e7\u00e3o de destino deve fazer parte da listagem de parceiros do Santander e estar tamb\u00e9m disponivel na listagem de universidades parceiras disponivel para o estudante candidato de acordo com o curso em que se encontra inscrito na Universidade Europeia, IPAM Porto ou IPAM Lisboa.</span></p>",
+            "created_at": "2019-05-07T15:19:05.010Z",
+            "exclusive_universityName": "Universidade Europeia",
+            "ownerId": "915c886d-bb7f-41a9-8c5e-2a9b6528050f",
+            "distribution": {
+                  "distributors": []
+            },
+            "duration": "1 semestre",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-07-02T10:07:57.747Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "PT",
+            "exclusive": true,
+            "promoter": "Universidade Europeia | IPAM | IADE",
+            "id": "5cd1a1e9622d9f0022a8b466",
+            "total_scholarships": 10,
+            "slug": "https-www-becas-santander-com-pt-program-bolsa-ibero-americanas",
+            "start_date": "2020-02-28T00:00:00.000Z",
+            "summary": "<p class=\"ql-align-justify\">A Universidade Europeia e o IPAM informam que se encontram abertas as candidaturas paras as bolsas de mobilidade Santander.</p>",
+            "currentStage": 1,
+            "requirements": "<p>Obrigatoria a existencia de conta banc\u00e1ria no santander.</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-03-13T23:59:59.000Z",
+                        "start_date": "2020-02-28T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-03-31T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d1047f",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": true,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": true,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Bolsas de Mobilidade Santander",
+            "stages": [
+                  {
+                        "endDate": "2020-03-13T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5e793d444a4fca0015b70187",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-03-31T23:59:59.000Z",
+                        "startDate": "2020-02-28T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-03-02T23:59:59.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "2000",
+                                    "numberPrograms": "5"
+                              }
+                        ],
+                        "currency": "GBP"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p>The Santander International Mobility Award is for Doctoral students to travel to overseas conferences where they wish to present their work, visit international institutions to enhance their research, or to complete training overseas that will assist them in their field of study.  If you are successful, you could be awarded up to \u00a32,000.</p>",
+            "created_at": "2019-11-21T11:40:56.839Z",
+            "exclusive_universityName": "University of Bath",
+            "ownerId": "72a07f46-5b98-4854-a793-57cabdd93f2b",
+            "distribution": {
+                  "distributors": []
+            },
+            "duration": "Runs from 09/12/2020 until 02/03/2020",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-11-21T11:59:20.651Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": true,
+            "promoter": "University of Bath",
+            "id": "5dd677c8c46e2b0014eafa4e",
+            "total_scholarships": 5,
+            "slug": "santander-international-mobility-award",
+            "start_date": "2019-12-09T00:00:00.000Z",
+            "summary": "<p>Santander International Mobility Award for Doctoral students travelling to conferences and institutions overseas to assist with their research. </p>",
+            "currentStage": 1,
+            "requirements": "<p>This award is only open to students studying for a Doctoral degree at the University of Bath.</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-03-02T23:59:59.000Z",
+                        "start_date": "2019-12-09T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-03-16T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d104fc",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Santander International Mobility Award",
+            "stages": [
+                  {
+                        "endDate": "2020-03-02T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "610218cf687ba8001418c95e",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-03-16T23:59:59.000Z",
+                        "startDate": "2019-12-09T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2020-10-30T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": [
+                              {
+                                    "amount": "5000",
+                                    "numberPrograms": "4"
+                              }
+                        ],
+                        "currency": "EUR"
+                  },
+                  "accomodation": false,
+                  "tuition": false,
+                  "travel": false
+            },
+            "description": "<p><span style=\"color: rgb(0, 0, 0);\">El Vicerrectorado de Investigaci\u00f3n de la Universidad Nebrija convoca ayudas puntuales para estancias breves en centros de investigaci\u00f3n extranjeros para aquellos doctorandos que se encuentren matriculados en alguno de los Programas de Doctorado de la Universidad Nebrija durante el curso 2020/2021.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Las inscripciones ser\u00e1n gestionadas a trav\u00e9s de la Escuela de Doctorado de la Universidad: </span><a href=\"https://www.nebrija.com/investigacion-universidad/doctorado-becas.php\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.nebrija.com/investigacion-universidad/doctorado-becas.php</a></p><p><br></p>",
+            "created_at": "2020-10-14T15:28:33.153Z",
+            "exclusive_universityName": "Universidad Antonio de Nebrija",
+            "ownerId": "4a22b26c-8437-4476-937c-8c6b30c148fd",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "De 1 a 3 meses",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2020-10-14T15:52:13.276Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Universidad Antonio de Nebrija",
+                  "id": "5b35dba2b8796b61f4d10497"
+            },
+            "ownerCountry": "ES",
+            "exclusive": true,
+            "promoter": "",
+            "id": "5f871921282b66001691465f",
+            "total_scholarships": 4,
+            "slug": "estancias-breves-personal-investigador-en-formacion-2020-21",
+            "start_date": "2020-10-15T00:00:00.000Z",
+            "summary": "<p class=\"ql-align-justify\">Esta convocatoria de ayudas pretende fomentar la formaci\u00f3n doctoral de los alumnos matriculados en los Programas de Doctorado de la Universidad Nebrija en instituciones for\u00e1neas de referencia y promover la internacionalizaci\u00f3n tanto de los doctorandos como de los propios estudios de doctorado.</p><p><br></p>",
+            "currentStage": 1,
+            "requirements": "<p><span style=\"color: rgb(0, 0, 0);\">Podr\u00e1n ser solicitantes y beneficiarios de estas ayudas a la movilidad los contratados predoctorales, estudiantes de doctorado matriculados en programas oficiales de doctorado de la Universidad Nebrija, verificados por el Real Decreto 99/2011.</span></p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2020-10-30T23:00:00.000Z",
+                        "start_date": "2020-10-15T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-11-02T23:00:00.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [
+                  "escueladoctorado@nebrija.es"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://api-manager.universia.net/coreplatform-document-management/v2/document-management/public/ekbq5gikg9jo6hd",
+                  "mimetype": "image/jpeg",
+                  "idDoc": "ekbq5gikg9jo6hd",
+                  "title": "UNIVERSIDAD Nebrija POSIT"
+            },
+            "allDestinations": true,
+            "exclusive_university": "5b35dba2b8796b61f4d10497",
+            "isXL": false,
+            "secondaryCategory": "",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Ayudas Nebrija-Santander para estancias breves de investigaci\u00f3n para investigadores en formaci\u00f3n",
+            "stages": [
+                  {
+                        "endDate": "2020-10-30T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "5f87fa1f6eb2970013457f14",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2020-11-02T23:00:00.000Z",
+                        "startDate": "2020-10-15T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2019-11-22T23:59:59.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": true,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": true,
+                  "tuition": false,
+                  "travel": true
+            },
+            "description": "<p>The UK Open University\u2019s Science, Technology, Engineering and Mathematics (STEM) Faculty will be hosting a group of up to 15 STEM scholars from Open and Distance Learning (ODL) Universities across the world to celebrate the 10<sup>th</sup> anniversary of eSTEeM.&nbsp;&nbsp;eSTEeM is the UKOU\u2019s Centre for STEM pedagogy (for more information about eSTEeM please see <a href=\"http://www.open.ac.uk/esteem\" target=\"_blank\">www.open.ac.uk/esteem</a>)<span style=\"color: windowtext;\">.</span></p>",
+            "created_at": "2019-10-30T13:27:15.219Z",
+            "exclusive_universityName": "",
+            "ownerId": "0dfbe65e-f41d-43c3-91ab-9c3e61720508",
+            "distribution": {
+                  "distributors": []
+            },
+            "duration": "22nd April to 1st May, 2020",
+            "mode": "faceToFace",
+            "diversity": false,
+            "last_status_change": "2019-10-30T13:29:27.480Z",
+            "allOriginCountries": true,
+            "primaryCategory": "TECH",
+            "promoterUniversity": {},
+            "ownerCountry": "GB",
+            "exclusive": false,
+            "promoter": "OU STEM Faculty",
+            "id": "5db98fb3e6cafd0014979995",
+            "total_scholarships": 15,
+            "slug": "open-university-visiting-scholars-programme-2020",
+            "start_date": "2019-10-30T00:00:00.000Z",
+            "summary": "<p>Coinciding with eSTEeM\u2019s annual conference, the international scholars will visit the UKOU campus from 22<sup>nd</sup> April to 1<sup>st</sup> May 2020.</p>",
+            "currentStage": 1,
+            "requirements": "<p>For more information and how to apply, please see the enclosed document.&nbsp;</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2019-11-22T23:59:59.000Z",
+                        "start_date": "2019-10-30T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2020-01-31T23:59:59.000Z"
+            },
+            "sfAgreements": [],
+            "destinations": [],
+            "supportEmails": [],
+            "pub_status": "published",
+            "logoDocument": {},
+            "allDestinations": true,
+            "exclusive_university": "",
+            "isXL": false,
+            "secondaryCategory": "STUDIES",
+            "backgroundDocuments": [],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": false,
+                  "massive": false,
+                  "postGraduates": true,
+                  "graduates": false,
+                  "teachers": true,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": true
+            },
+            "corporative": false,
+            "name": "Open University Visiting Scholars Programme 2020",
+            "stages": [
+                  {
+                        "endDate": "2019-11-22T23:59:59.000Z",
+                        "customMessageGrant": "",
+                        "name": "",
+                        "customMessageReject": "",
+                        "_id": "5ec897d29d0b0e0013b646f1",
+                        "customMessageInscription": "",
+                        "value": 1,
+                        "grantDateLimit": "2020-01-31T23:59:59.000Z",
+                        "startDate": "2019-10-30T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      },
+      {
+            "end_date": "2022-05-12T23:00:00.000Z",
+            "benefits": {
+                  "courses": false,
+                  "subsistenceAllowance": false,
+                  "financial": {
+                        "types": []
+                  },
+                  "accomodation": false,
+                  "tuition": true,
+                  "travel": false
+            },
+            "description": "<p>La beca consiste en la inscripci\u00f3n gratuita en la jornada La Sociedad y la Historia del Tiempo Presente </p>",
+            "created_at": "2022-04-27T16:10:15.829Z",
+            "exclusive_universityName": "",
+            "ownerId": "07af2e96-6819-4169-bcd9-ea79e0886e9b",
+            "distribution": {
+                  "distributors": [],
+                  "multi": false
+            },
+            "duration": "24 horas",
+            "mode": "online",
+            "diversity": false,
+            "last_status_change": "2022-04-27T16:45:09.912Z",
+            "allOriginCountries": true,
+            "primaryCategory": "STUDIES",
+            "promoterUniversity": {
+                  "name": "Universidad Rey Juan Carlos",
+                  "id": "5b35dba2b8796b61f4d104c6"
+            },
+            "ownerCountry": "ES",
+            "exclusive": false,
+            "promoter": "",
+            "id": "62696ae759f72d0015445ae4",
+            "total_scholarships": 270,
+            "slug": "becas-santander-estudios-la-sociedad-y-la-historia-del-tiempo-presente",
+            "start_date": "2022-05-03T00:00:00.000Z",
+            "summary": "<p>Jornada La Sociedad y la Historia del Tiempo Presente</p>",
+            "currentStage": 1,
+            "requirements": "<p>Idioma espa\u00f1ol. </p><p>Uso horario Espa\u00f1a.</p>",
+            "apply_dates": {
+                  "student": {
+                        "end_date": "2022-05-12T23:00:00.000Z",
+                        "start_date": "2022-05-03T00:00:00.000Z"
+                  },
+                  "grant_end_date": "2022-05-13T23:00:00.000Z"
+            },
+            "sfAgreements": [
+                  "a002o000010PzxhAAC"
+            ],
+            "destinations": [],
+            "supportEmails": [
+                  "jornadapresente@gmail.com"
+            ],
+            "pub_status": "published",
+            "logoDocument": {
+                  "preview": "https://pro-becas-images-s3.s3.eu-west-1.amazonaws.com/public_documents/a0286e16-e87a-4253-a09c-f19d3f68bd91",
+                  "mimetype": "image/jpeg",
+                  "idDoc": "public_documents/a0286e16-e87a-4253-a09c-f19d3f68bd91",
+                  "title": "Imagen1_jpg"
+            },
+            "allDestinations": true,
+            "exclusive_university": "",
+            "isXL": false,
+            "secondaryCategory": "RESEARCH",
+            "backgroundDocuments": [
+                  {
+                        "preview": "https://pro-becas-images-s3.s3.eu-west-1.amazonaws.com/public_documents/f21fbdc7-c564-4a90-808f-7dd3ee74dd6c",
+                        "mimetype": "image/png",
+                        "idDoc": "public_documents/f21fbdc7-c564-4a90-808f-7dd3ee74dd6c",
+                        "title": "Imagen4_png"
+                  }
+            ],
+            "countriesOfOrigin": [],
+            "addressed": {
+                  "allAudiences": true,
+                  "massive": false,
+                  "postGraduates": false,
+                  "graduates": false,
+                  "teachers": false,
+                  "youngProfessional": false,
+                  "students": false,
+                  "experiencedProfessional": false
+            },
+            "corporative": false,
+            "name": "Becas Santander Estudios | La Sociedad y la Historia del Tiempo Presente",
+            "stages": [
+                  {
+                        "endDate": "2022-05-12T23:00:00.000Z",
+                        "customMessageGrant": null,
+                        "name": null,
+                        "customMessageReject": null,
+                        "_id": "6270cbcd61243500152360b3",
+                        "customMessageInscription": null,
+                        "value": 1,
+                        "grantDateLimit": "2022-05-13T23:00:00.000Z",
+                        "startDate": "2022-05-03T00:00:00.000Z",
+                        "status": "ended"
+                  }
+            ],
+            "status": "ended"
+      }
+]
