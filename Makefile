@@ -1,0 +1,2 @@
+scrap:
+	scrapy crawl SinFronteras
